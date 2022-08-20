@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../static/style.css">
+    <title>Cloth Size Prediction</title>
+</head>
+<body>
+    <section>
+        <div class="header">
+            Results
+        </div>
+
+        <ul>
+            <li>My Weight (in Kgs): {{session['weight']}}</li>
+            <li>My Age (in Years): {{session['age']}}</li>
+            <li>My Height (in cm): {{session['height']}}</li>
+        </ul>
+
+        <div class="input_text">
+            Results: <b>{{form.results}}</b>
+        </div>
+        <!-- <form>
+            {# This hidden_tag is a CSRF security feature. #}
+            
+
+            <input type="text" placeholder="Weight" />
+            <input type="text" value="L" />
+            
+            <div class="btns">
+                <input class="sp_btn" type="button" value="Predict" />
+                <input class="sp_btn" type="button" value="Save" />
+            </div>
+            
+        </form> -->
+    </section>
+</body>
+</html>
