@@ -1,0 +1,5269 @@
+id,Operator
+1,Military - U.S. Army
+2,Military - U.S. Navy
+3,Private
+4,Military - German Navy
+5,Military - German Navy
+6,Military - German Navy
+7,Military - German Navy
+8,Military - German Army
+9,Military - German Navy
+10,Military - German Navy
+11,Military - German Army
+12,Military - German Navy
+13,Military - German Army
+14,Military - German Navy
+15,Military - German Navy
+16,Military - German Navy
+17,Military - German Navy
+18,Military - German Navy
+19,Military - German Navy
+20,Military - German Navy
+21,Military - German Navy
+22,US Aerial Mail Service
+23,US Aerial Mail Service
+24,US Aerial Mail Service
+25,Aircraft Transport and Travel
+26,US Aerial Mail Service
+27,Aircraft Transport and Travel
+28,US Aerial Mail Service
+29,US Aerial Mail Service
+30,US Aerial Mail Service
+31,US Aerial Mail Service
+32,US Aerial Mail Service
+33,US Aerial Mail Service
+34,US Aerial Mail Service
+35,By Air
+36,US Aerial Mail Service
+37,US Aerial Mail Service
+38,US Aerial Mail Service
+39,US Aerial Mail Service
+40,Latecoere Airlines
+41,Latecoere Airlines
+42,US Aerial Mail Service
+43,US Aerial Mail Service
+44,Handley Page Transport
+45,Aeropostale
+46,US Aerial Mail Service
+47,US Aerial Mail Service
+48,Aeropostale
+49,US Aerial Mail Service
+50,Military - Royal Australian Air Force
+51,US Aerial Mail Service
+52,US Aerial Mail Service
+53,US Aerial Mail Service
+54,US Aerial Mail Service
+55,Aeropostale
+56,Military - Royal Airship Works
+57,Franco-Roumaine
+58,West Australian Airways
+59,Handley Page Transport
+60,Military - U.S. Army Air Service
+61,Daimler Airways / Grands Express Aeriens
+62,
+63,Vickers
+64,US Aerial Mail Service
+65,Cie des Messageries Aeriennes
+66,Grands Express Aeriens
+67,US Aerial Mail Service
+68,
+69,Grands Express Aeriens
+70,Grands Express Aeriens
+71,Amee de l'Air
+72,Grands Express Aeriens
+73,US Aerial Mail Service
+74,US Aerial Mail Service
+75,Grands Express Aeriens
+76,Campagnie France Roumaine
+77,US Aerial Mail Service
+78,Daimler Airways
+79,CCCP
+80,US Aerial Mail Service
+81,Military - French Navy
+82,US Aerial Mail Service
+83,US Aerial Mail Service
+84,KLM Royal Dutch Airlines
+85,SCADTA
+86,US Aerial Mail Service
+87,Grands Express Aeriens
+88,US Aerial Mail Service
+89,Imperial Airways
+90,Zakavia
+91,Grands Express Aeriens
+92,Lignes Aeriennes Latecoere
+93,KLM Royal Dutch Airlines
+94,Grands Express Aeriens
+95,Lignes Aeriennes Latecoere
+96,CIDNA
+97,Military - U.S. Navy
+98,CIDNA
+99,Air Union
+100,US Aerial Mail Service
+101,Deutche Lufthansa
+102,Air Union
+103,Compagnie Internationale de Navigation Aérienne
+104,KLM Royal Dutch Airlines
+105,Deutsche Lufthansa
+106,Air Union
+107,
+108,Deutsche Lufthansa
+109,Imperial Airways
+110,Grands Express Aeriens
+111,PacifiAir Transport
+112,KLM Royal Dutch Airlines
+113,Grands Express Aeriens
+114,Qantas
+115,Varney Air Lines
+116,US Aerial Mail Service
+117,Deutsche Lufthansa
+118,Air Union
+119,Deutsche Lufthansa
+120,KLM Royal Dutch Airlines
+121,Colonial Air Transport
+122,Reynolds Airways
+123,Deutsche Lufthansa
+124,Deutsche Lufthansa
+125,Lignes Aeriennes Latecoere
+126,Colonial Air Transport
+127,CIDNA
+128,Aero O-Y
+129,National Air Transport
+130,Aeropostale
+131,Aeropostale
+132,Latecoere Airlines
+133,Colonial Western Airlines
+134,Aeropostale
+135,Aeropostale
+136,Aeropostale
+137,Aeropostale
+138,Boeing Air Transport
+139,
+140,Air Union
+141,Boeing Air Transport
+142,Iberia Airlines
+143,Aeropostale
+144,Ford Air Freight Inc.
+145,Deutsche Lufthansa
+146,Deutsche Lufthansa
+147,National Air Transport
+148,Aero O-Y
+149,Imperial Airways
+150,KLM Royal Dutch Airlines
+151,British Columbia Airways
+152,CIDNA
+153,Qantas
+154,National Parks Airways
+155,Deutsche Lufthansa
+156,Aeropostale
+157,National Air Transport
+158,Air Union
+159,Aeropostale
+160,Universal Airlines
+161,National Air Transport
+162,Continental Air Lines
+163,Sunbeam Air Transport Co.
+164,Syndicato Condor
+165,
+166,Deutsche Lufthansa
+167,National Air Transport
+168,Interstate Airlines
+169,CIDNA
+170,Colonial Air Transport
+171,Varney Air Lines
+172,Aeroespresso
+173,Skyline Transportation Company
+174,Aeropostale
+175,Colonial Western Airlines
+176,New Standard Airlines
+177,Maddux Airlines / Military - U.S.Army Air Force
+178,MALERT
+179,Aeropostale
+180,Pan American Airways
+181,Aeropostale
+182,Imperial Airways
+183,Northwest Orient Airlines
+184,Aero Lloyd
+185,Continental Air Lines
+186,Middle States Airlines
+187,Aeropostale
+188,Ukvozduchput
+189,Deutsche Lufthansa
+190,Associated Aviators
+191,Trans Continental Air Transport
+192,Imperial Airways
+193,Aeropostale
+194,Pickwick Airways
+195,Colonial Air Transport
+196,Imperial Airways
+197,Continental Air Lines
+198,Bremerton-Seattle Air Taxi / Gorst Air Lines
+199,Corp. Aeronautica de Transportes
+200,Deutsche Lufthansa
+201,Air Union
+202,Varney Air Lines
+203,National Air Transport
+204,Aeropostale
+205,Deutsche Lufthansa
+206,Trans Continental Air Transport
+207,Boeing Air Transport
+208,Air Orient
+209,Maddux Airlines
+210,Aeropostale
+211,Central  Airlines
+212,Colonial Air Transport
+213,Air Union
+214,Canadian Colonial Airways
+215,Aeropostale
+216,Colonial Air Transport
+217,Deutsche Lufthansa
+218,Cross Airways
+219,Ceskoslovenske Aerolinie
+220,Sabena
+221,Western Canada Airways
+222,Military - British Air Ministry
+223,Deutsche Lufthansa
+224,Aeropostale
+225,Alaska-Washington Airways
+226,Imperial Airways
+227,Embry Riddle Company
+228,Syndicato Condor
+229,PacifiAir Transport
+230,China National Aviation Corporation
+231,Sabena
+232,Varney Air Lines
+233,Dominion Air Lines
+234,Western Canada Airways
+235,Aeropostale
+236,Australian National Airways
+237,Trans Continental and Western Air
+238,Deutsche Lufthansa
+239,PacifiAir Transport
+240,Guiena Airways
+241,National Air Transport
+242,Air Orient
+243,Rubner Flying Service
+244,Deutsche Lufthansa
+245,Braniff Airlines
+246,Australian Aerial Services
+247,American Airways
+248,CIDNA
+249,American Airways
+250,Chicago-Detroit Airways
+251,PacifiAir Transport
+252,Deutsche Lufthansa
+253,Syndicato Condor
+254,"NY, Phil., Washington AW"
+255,Union Airways
+256,Boeing Air Transport
+257,China National Aviation Corporation
+258,Varney Air Lines
+259,Braniff Airways
+260,KLM Royal Dutch Airlines
+261,Aeropostale
+262,American Airways
+263,Northwest Airways
+264,Century PacifiLines
+265,Bimini Airways
+266,Transamerican Airlines
+267,Boeing Air Transport
+268,Aeropostale
+269,Century Air Lines
+270,American Airways
+271,Trans Continental and Western Air
+272,Air Orient
+273,National Air Transport
+274,Transamerica Airlines
+275,Varney Air Lines
+276,PacifiAir Transport
+277,Panagra
+278,Air Orient
+279,A B Aerotransport
+280,American Airways
+281,Air Union
+282,New England Airways
+283,Aeropostale
+284,Lloyd Aero Boliviano
+285,Deutsche Lufthansa
+286,Deutsche Lufthansa
+287,Hunter Airways
+288,Trans Continental and Western Air
+289,Boeing Air Transport
+290,Guinea Airways
+291,Aeropostale
+292,Eastern Air Transport
+293,American Airways
+294,American Airways
+295,PacifiAir Transport
+296,Pan American Grace Airways
+297,Varney Airlines
+298,Imperial Airways
+299,Deutsche Lufthansa
+300,Military - U.S. Navy
+301,Air Orient
+302,Eurasia
+303,Aeropostale - La Tecoere Company
+304,Eastern Air Transport
+305,Trans Continental and Western Air
+306,Aeroput
+307,United Air Lines
+308,Air France
+309,United Air Lines
+310,Trans Continental and Western Air
+311,China National Aviation Corporation
+312,Kalinin
+313,National Air Transport
+314,Deutsche Lufthansa
+315,Union Airways
+316,Imperial Airways
+317,Air France
+318,Air France
+319,Boeing Aircraft Company
+320,Air France
+321,American Airways
+322,Pan American Airways (Scadta)
+323,Pan American Grace Airlines
+324,China National Aviation Corporation
+325,Air France
+326,Air France
+327,American Airways
+328,Panagra
+329,Deutsche Lufthansa
+330,Aerevias Centrales Air Service
+331,United Air Services
+332,Swissair
+333,Air France
+334,China National Aviation Corporation
+335,Rapid Air Transport
+336,Qantas
+337,Holyman Airways
+338,Holdens Air Transport Service
+339,Qantas
+340,Qantas
+341,Rapid Air Transport
+342,Deutsche Lufthansa
+343,Braniff Airlines
+344,Cubana de Aviacion
+345,KLM Royal Dutch Airlines
+346,American Airlines
+347,Trans Continental and Western Air
+348,Deruluft
+349,Deruluft
+350,Misrair
+351,Deutsche Lufthansa
+352,Air France
+353,KLM Royal Dutch Airlines
+354,Varney Air Lines
+355,Trans Continental and Western Air
+356,Knowles Flying Service of Detroit
+357,Gor'ky Eskadril'ya
+358,Wyoming Air Service
+359,Chicago and Southern Airlines
+360,
+361,Servicio Aereo Columbiano / SCADTA
+362,KLM Royal Dutch Airlines
+363,Wedell-Williams Air Service Corporation
+364,KLM Royal Dutch Airlines
+365,China National Aviation Corporation
+366,Delta Air Lines
+367,Aero Mayflower Transit Co
+368,Private
+369,Western Air Express
+370,Holyman Airways
+371,United Air Lines
+372,Aero O-Y
+373,Chamberlin Flying Service
+374,United Air Lines
+375,Air France
+376,TACA
+377,Braniff Airlines
+378,Air France
+379,Air Bleu
+380,Sabena
+381,Deutsche Lufthansa
+382,Imperial Airways
+383,American Airlines
+384,Lloyd Aereo Boliviano
+385,Air France
+386,American Airlines
+387,Deutsche Lufthansa
+388,China National Aviation Corporation
+389,Compania de Mexico
+390,American Airlines
+391,Trans Continental and Western Air
+392,Pan American Airways
+393,Avio Linee Italiane
+394,Deutsche Lufthansa
+395,Sabena
+396,Swissair
+397,Holyman Airways
+398,A B Aerotransport
+399,Deutsche Lufthansa
+400,Den Norske Luftfartskole
+401,Guernsey Airways
+402,Air France
+403,Mexicana
+404,Chicago Southern Airlines
+405,SCADTA
+406,British Airways
+407,Imperial Airways
+408,Imperial Airways
+409,Varney Air Lines
+410,Blue Bird Air Service
+411,Mexicana
+412,North Sea Aerial and General Transport
+413,Deutsche Lufthansa
+414,Deruluft
+415,Deutsche Lufthansa
+416,British Airways
+417,Deutsche Lufthansa
+418,Air France
+419,KLM Royal Dutch Airlines
+420,Western Air Express
+421,Northwest Orient Airlines
+422,Eastern Air Lines
+423,Braniff Airways
+424,China National Aviation Corporation
+425,United Air Lines
+426,Western Air Express
+427,Sabena
+428,United Air Lines
+429,Airlines of Australia
+430,Deutsche Lufthansa
+431,Imperial Airways
+432,Trans Continental and Western Air
+433,Deutsche Lufthansa
+434,Deutsche Zeppelin Reederei
+435,Deutsche Lufthansa
+436,Private - Purdue Reasearch Foundation
+437,KLM Royal Dutch Airlines
+438,Ala Littoria
+439,Pan American Grace Airways
+440,China National Aviation Corporation
+441,Eastern Air Lines
+442,Pan American Grace Airways
+443,Guinea Airways
+444,Air France
+445,Imperial Airways
+446,KLM Royal Dutch Airlines
+447,United Air Lines
+448,Deutsche Lufthansa
+449,Sabena
+450,Deutsche Lufthansa
+451,Imperial Airways
+452,Air France
+453,Air France
+454,Deutsche Lufthansa
+455,Northwest Orient Airlines
+456,Pan American World Airways
+457,General Airways
+458,Military - U.S. Navy / Military - U.S. Navy
+459,TsAGI
+460,Air France
+461,Mexicana
+462,Deutsche Lufthansa
+463,Trans Continental and Western Air
+464,Air France
+465,Australian National Airways
+466,Ala Littoria
+467,Lineas Aéreas Mineras
+468,United Airways of New Zealand
+469,Northwest Orient Airlines
+470,Cruzeiro do Sul
+471,United Air Lines
+472,Deutsche Lufthansa
+473,Ginger Coote Airways
+474,Wilson Airways
+475,Pan American Grace Airways
+476,Northwest Orient Airlines
+477,Ala Littoria
+478,LOT Polish Airlines
+479,Military - Colombian Army
+480,Imperial Airways
+481,Pan American World Airways
+482,Dai Nippon
+483,
+484,CSA Czech Airlines
+485,Syndicato Condor
+486,LOT Polish Airlines
+487,Macchi
+488,China National Aviation Corporation
+489,North Queensland Airways
+490,Deutsche Lufthansa
+491,Deutsche Lufthansa
+492,Sabena
+493,Australian National Airways
+494,British Airways
+495,Jersey Airways
+496,KLM Royal Dutch Airlines
+497,Trans Canada Air Lines
+498,Deutsche Lufthansa
+499,Imperial Airways
+500,United Air Lines
+501,Japan Aviation Corporation
+502,KLM Royal Dutch Airlines
+503,Qantas
+504,Swissair
+505,Northwest Orient Airlines
+506,Syndicato Condor
+507,Guinea Airways
+508,Imperial Airways
+509,Deutsche Lufthansa
+510,Sabena
+511,Deutsche Lufthansa
+512,Boeing Aircraft Company
+513,Deutsche Lufthansa
+514,Great Western and Southern Air Lines
+515,Braniff Airlines
+516,Air France
+517,Imperial Airways
+518,Air France
+519,Military - Ecuadorian Air Force
+520,KLM Royal Dutch Airlines
+521,Swissair
+522,Deutsche Lufthansa
+523,Pan American World Airways
+524,British Airways
+525,Indian National Airways
+526,Deutsche Lufthansa
+527,KLM Royal Dutch Airlines
+528,British Airways
+529,Iberia Airlines
+530,Imperial Airways
+531,Linee Aeree Italiane
+532,KNILM
+533,Imperial Airways
+534,British Overseas Airways
+535,Douglas Aircraft Company
+536,Aero O-Y
+537,Air France
+538,Air France
+539,Military - Royal Australian Air Force
+540,LARES
+541,Pennsylvania Central Airlines
+542,China National Aviation Corporation
+543,Deutsche Lufthansa
+544,United Air Lines
+545,Deutsche Lufthansa
+546,
+547,Air France
+548,United Air Lines
+549,LATI
+550,Malert Airlines
+551,China National Aviation Corporation
+552,Trans Continental and Western Air
+553,Trans Canada Air Lines
+554,Eastern Air Lines
+555,Deutsche Lufthansa
+556,South African Airways
+557,LARES
+558,Manchurian Air Lines
+559,Military -Royal Air Force
+560,Military - Royal Air Force
+561,Panair do Brasil
+562,Air France
+563,British Overseas Airways
+564,Pan American World Airways
+565,Deutsche Lufthansa
+566,Northwest Orient Airlines
+567,American Airlines
+568,Pan American Airways
+569,Trans Continental and Western Air
+570,Military - Royal Australian Air Force
+571,KNILM
+572,KNILM
+573,Qantas
+574,China National Aviation Corporation
+575,British Overseas Airways
+576,Qantas
+577,British Overseas Airways
+578,Military - U.S. Army Air Force
+579,KNILM
+580,Aktiebolaget Aerotransport
+581,China National Aviation Corporation
+582,Guinea Airways Limited
+583,United Air Lines
+584,Northwest Orient Airlines
+585,Military - U.S. Army Air Forces
+586,Military - Royal Australian Air Force
+587,Military - Royal Air Force
+588,Air France
+589,Deutsche Lufthansa
+590,KLM Royal Dutch Airlines
+591,Military - Royal Air Force
+592,Military - Royal Air Force
+593,Air France
+594,China National Aviation Corporation
+595,Military - U.S. Army Air Forces
+596,American Export Airlines
+597,Deutsche Lufthansa
+598,American Airlines / Military - USAF
+599,Military - Royal Air Force
+600,Western Airlines
+601,DLL
+602,British Overseas Airways
+603,Military - U.S. Army Air Forces
+604,Military - U.S. Army Air Forces
+605,Pan American World Airways
+606,Pan American Grace Airlines
+607,British Overseas Airways
+608,Private - Boeing Aircraft Company
+609,Pan American World Airways
+610,China National Aviation Corporation
+611,China National Aviation Corporation
+612,Military - Royal Australian Air Force
+613,Qantas
+614,British Overseas Airways
+615,Military - U.S. Army Air Forces
+616,Military - U.S. Army Air Forces
+617,British Overseas Airways
+618,British Overseas Airways
+619,
+620,British Overseas Airways
+621,American Airlines
+622,Military - U.S. Army Air Forces
+623,Military - U.S. Air Force
+624,China National Aviation Corporation
+625,VASP
+626,Military - U.S. Army Air Forces
+627,Military - U.S. Army Air Forces
+628,Military - U.S. Army Air Forces
+629,American Airlines
+630,Military - Royal Canadian Air Force
+631,AB Aerotransport
+632,Military - U.S. Army Air Forces
+633,Military - Indian Air Force
+634,China National Aviation Corporation
+635,China National Aviation Corporation
+636,Qantas
+637,China National Aviation Corporation
+638,Military - U.S. Air Force
+639,Military - U.S. Army Air Forces / Military - U.S. Army Air Forces
+640,Deutsche Lufthansa
+641,American Airlines
+642,China National Aviation Corporation
+643,Deutsche Lufthansa
+644,Military - U.S. Army
+645,Pan American World Airways
+646,Deutsche Lufthansa
+647,Deutsche Lufthansa
+648,Military - Royal Air Force
+649,China National Aviation Corporation
+650,China National Aviation Corporation
+651,Military - U.S. Army Air Forces
+652,Military - U.S. Army Air Forces
+653,Military - U.S. Army Air Forces
+654,China National Aviation Corporation
+655,China National Aviation Corporation
+656,Varig
+657,Military - U.S. Army Air Forces
+658,Military - U.S. Army Air Forces
+659,Pan American Airways
+660,Military - U.S. Army Air Forces
+661,Pan American World Airways
+662,Military - U.S. Navy
+663,Military - U.S. Air Force
+664,Military - U.S. Army Air Forces
+665,Panair do Brasil
+666,Deutsche Lufthansa
+667,Military - Royal Netherlands East Indies Air Force
+668,U. S. Air Force
+669,Panair do Brasil
+670,Deutsche Lufthansa
+671,Military - U.S. Air Force
+672,China National Aviation Corporation
+673,Deutsche Lufthansa
+674,Qantas
+675,Deutsche Lufthansa
+676,Deutsche Lufthansa
+677,Military - U.S. Army Air Forces
+678,Trans Continental and Western Air
+679,Military - U.S. Army Air Corps
+680,Military - U.S. Army Air Forces
+681,TACA
+682,BOAC
+683,Deutsche Lufthansa
+684,China National Aviation Corporation
+685,Trans Continental and Western Air
+686,Trans-Canada Air Lines
+687,Military - U.S. Army Air Forces
+688,China National Aviation Corporation
+689,Pan American World Airways
+690,American Airlines
+691,China National Aviation Corporation
+692,China National Aviation Corporation
+693,Military - Royal Australian Air Force
+694,Australian National Airways
+695,Military - U.S. Army Air Forces
+696,Military -Royal Air Force
+697,Military - U.S. Navy
+698,Navegacao Aerea Brasileira
+699,Military - United States Army Air Force
+700,American Airlines
+701,Military - U.S. Air Force
+702,China National Aviation Corporation
+703,Pennsylvania Central Airlines
+704,Military - U.S. Navy
+705,
+706,Military - U.S. Army Air Forces
+707,Deutsche Lufthansa
+708,Military - U.S. Air Force
+709,Page Airways
+710,Military - U.S. Army Air Forces
+711,Military - U.S. Army Air Forces
+712,Military -Royal Air Force
+713,Military - U.S. Army Air Forces
+714,Military - U.S. Army Air Forces
+715,China National Aviation Corporation
+716,MaRobertson Miller Airlines
+717,Military -Royal Air Force
+718,Military - Royal Indian Air Force
+719,Military -Royal Air Force
+720,Military - South African Air Force
+721,Eastern Air Lines / Military - U.S. Army Air Corps
+722,Military - U.S. Army Air Forces
+723,Lineas Aereas Mineras
+724,Pan American World Airways
+725,Mexicana
+726,Eastern Air Lines
+727,Military - Royal Australian Air Force
+728,Military - U.S. Army Air Forces
+729,Military - Royal Australian Air Force
+730,Military - United States Army Air Force
+731,National Airlines
+732,Military -Royal Air Force
+733,Military - Royal Air Force
+734,Military -Royal Air Force
+735,Military - U.S. Army Air Forces
+736,Military - Royal Australian Air Force
+737,China National Aviation Corporation
+738,Military - Royal Air Force
+739,Faucett
+740,Military - U.S. Army Air Forces
+741,Military - U.S. Army Air Forces
+742,Military - U.S. Army Air Forces
+743,Military - U.S. Navy / Military - U.S. Navy
+744,Military - U.S. Army Air Forces
+745,Military - U.S. Army Air Forces
+746,Military -Royal Air Force
+747,Military - U.S. Army
+748,Military - Royal Australian Air Force
+749,Military -Royal Air Force
+750,Military -Royal Air Force
+751,Military - U.S. Navy
+752,Military - U.S. Army
+753,Military - Royal Air Force
+754,Air France
+755,Eastern Air Lines
+756,Pennsylvania Central Airlines
+757,Military - Chinese Air Force
+758,Military -Royal Air Force
+759,Eastern Air Lines
+760,Mililtary - Royal Canadian Air Force
+761,Military - Royal Air Force
+762,United Air Lines
+763,Military - U.S. Army Air Forces
+764,British Overseas Airways
+765,American Airlines
+766,Ceskoslovenske Aerolinie
+767,Australian National Airways
+768,Military - Chinese Air Force
+769,China National Aviation Corporation
+770,Military - U.S. Army Air Forces
+771,British Overseas Airways /Qantas
+772,Military - Royal British Navy
+773,
+774,TACA
+775,Military - Royal Air Force
+776,Military U.S. Navy / Military - U.S. Navy
+777,Viking Air Transport
+778,DNL
+779,Military - U.S. Army Air Forces
+780,Military -Royal Air Force
+781,Military - U.S. Army Air Forces
+782,Military - Royal Air Force
+783,Air France
+784,Military - U.S. Army Air Forces
+785,Trans Continental and Western Air
+786,Central Air Transport
+787,ANDESA
+788,Military - U.S. Army Air Corps
+789,Military -  (2) U.S. Army Air Forces
+790,Military -Royal Air Force
+791,British European Airways
+792,AtlantiCentral Airlines
+793,BOAC
+794,British Overseas Airways
+795,Trans Luxury Airlines
+796,Misrair
+797,Air France
+798,Air France
+799,Trans-Luxury Airlines
+800,British South American Airways
+801,Mt. McKinley Airfreight
+802,Military - Royal Canadian Air Force
+803,Sabena
+804,AVIANCA
+805,Sabena
+806,Military -Royal Air Force
+807,China National Aviation Corporation
+808,Military - Royal Air Force
+809,Panair do Brasil
+810,American Overseas Airlines
+811,Military -Royal Air Force
+812,Military - Royal Netherlands Naval Air Service
+813,United Air Lines
+814,Air Ocean
+815,National Air Transport Services
+816,Military - Royal Air Force
+817,Socotra
+818,CTA LanguedoRoussillon
+819,United Air Lines
+820,Western Airlines
+821,Empressa Commun. Aéreas de Veracruz
+822,KLM Royal Dutch Airlines
+823,Military - U.S. Army Air Forces
+824,Lineas Aéreas Costarricenses  LACSA
+825,Fuerza Aérea Argentina
+826,Aeroflot
+827,Military - U.S. Marine Corps
+828,Military - U.S. Army Air Forces
+829,Far Eastern Air Transport
+830,Winged Cargo Inc.
+831,FAMA (Argentina)
+832,Western Airlines
+833,China National Aviation Corporation
+834,American Airlines
+835,Kansas City Southern Skyways
+836,Trans Continental and Western Air
+837,Panair do Brasil
+838,Nationwide Air Transport
+839,China National Aviation Corporation
+840,Far Eastern Air Transport
+841,British Overseas Airways
+842,Eastern Air Lines
+843,Military - Mexican Air Force
+844,China National Aviation Corporation
+845,Spencer Airways / Ceskoslovenske Aerolinie
+846,Philippine Air Lines
+847,KLM Royal Dutch Airlines
+848,China National Aviation Corporation
+849,Air France
+850,International Air Freight
+851,Aerovias Cuba International
+852,Slick Airways
+853,Military - Corrieri Aerei Militari
+854,AVIANCA
+855,Military - Chinese Air Force
+856,Military - Royal Air Force
+857,VIARCO
+858,Military - Royal Air Force
+859,Air France
+860,TACA
+861,Military - Royal Air Force
+862,Linea Aeropostal Venezolana
+863,British South American Airways
+864,Delta Air Lines
+865,TAM (Peru)
+866,Trans Canada Air Lines
+867,Trans Continental and Western Air
+868,Flugefelag
+869,Military - U.S. Army Air Forces
+870,United Air Lines
+871,Eastern Air Lines
+872,Air France
+873,Flota Aérea Mercante Argentina
+874,Pennsylvania Central Airlines
+875,Pan American World Airways
+876,Air France
+877,Burke Air Transport
+878,Aero Cargo
+879,British Overseas Airways
+880,Flota Aérea Mercante Argentina
+881,Military - Chinese Air Force
+882,British South American Airways
+883,Military - U.S. Navy
+884,American Airlines
+885,AB Aerotransport
+886,Transporturile Aeriene Romano-Sovietice
+887,Slick Airways
+888,British Overseas Airways
+889,Norwegian Airlines
+890,American Airlines
+891,Stratofreight
+892,Societe Aerienne du Littoral
+893,United Air Lines
+894,Pan American World Airways
+895,AB Aerotransport
+896,Military - Royal Indian Air Force
+897,Philippine Air Express
+898,American Airlines
+899,Société Auxiliare de Navigation Aérienne
+900,Trafik-Turist-Transportflyg
+901,Trans Continental and Western Air
+902,TARS
+903,Columbia Air Cargo
+904,JAT Yugoslav Airlines
+905,China National Aviation Corporation
+906,Military - U.S. Air Force
+907,Alaska Airlines
+908,Military - U.S. Air Force
+909,Military - U.S. Air Force
+910,Air Transport
+911,Air India
+912,Servicio Aéreo Panini
+913,Air France
+914,British European Airways
+915,Coastal Air Lines
+916,Transport Comp. Algerienne de T.A.
+917,Dominicana
+918,Eastern Air Lines
+919,China National Aviation Corporation
+920,Military - Royal Air Force
+921,Airline Transport Carriers
+922,British South American Airways
+923,Eastern Air Lines
+924,Det Danske Luftfartselskab
+925,Società Aerea Teseo
+926,Latecoere Airlines
+927,Commercial Airways
+928,Bruning Aviation
+929,Military - Brazilian Air Force
+930,Société de Transports Aériens
+931,Sabena
+932,Loftleidir IcelandiAirlines
+933,Delta Air Lines
+934,Northwest Orient Airlines
+935,Cruzeiro
+936,Agencia Interamericana de Aviada
+937,Indian National Airlines
+938,British European Airways / Military - Soviet Air Force
+939,Pan American World Airways
+940,SAETA
+941,Sabena
+942,Skyways of London
+943,Mercury Aviation
+944,Slick Airways
+945,Air Transport Charter
+946,Alpha Airways
+947,Hargreaves Airways
+948,United Air Lines
+949,Linea Aeropostal Venezolana
+950,Avio Linee Italiane
+951,Scandinavian Airlines (SAS)
+952,Aigle Azur
+953,Aerovias Brasil
+954,Cathay PacifiAirways
+955,Rimouski Airlines
+956,ALFA
+957,Civil Air Transport
+958,Air France
+959,Onzeair
+960,New Zealand National Airways
+961,Avensa
+962,LANSA
+963,Northwest Orient Airlines
+964,Sabena
+965,Australian National Airways
+966,Norwegian Airlines
+967,KLM Royal Dutch Airlines
+968,New Zealand National Airways
+969,Northwest Orient Airlines
+970,Military - U.S. Air Force
+971,PacifiAlaska Air Freight
+972,Australian National Airways
+973,Mannin Airways
+974,Pakistan Airways
+975,Central Air Transport
+976,
+977,China National Aviation Corporation
+978,LANSA
+979,Ceskoslovenske Aerolinie
+980,China National Aviation Corporation
+981,Iberia Airlines
+982,Airborne Transport
+983,Pan African Air Charter
+984,Seattle Air Charter
+985,British South American Airways
+986,Coastal Cargo
+987,Viacao Aerea Gaucha S.A.
+988,Pan African Air Charter
+989,Dalmia Jain Airways
+990,British South American Airways
+991,Military - U.S. Air Force
+992,Alaska Airlines
+993,Pan American World Airways
+994,Saint Lawrence Airways
+995,Skyways of London
+996,AVIANCA
+997,Scandinavian Airlines (SAS)
+998,Faucett
+999,British European Airways / Military - British
+1000,Cathay PacifiAirways
+1001,LOT Polish Airlines
+1002,Queensland Airlines
+1003,Skyways
+1004,New Zealand National Airways
+1005,Avio Linee Italiane
+1006,Philippine Air Lines
+1007,Tech - Aeronautical Explotiation
+1008,Military - Brazilian Air Force
+1009,Strato Freight
+1010,KLM Royal Dutch Airlines
+1011,MaRoberston-Miller Airlines
+1012,KLM Royal Dutch Airlines
+1013,Standard Airlines
+1014,Air Transport Associates
+1015,Eastern Air Lines / Military - USN
+1016,Varig
+1017,Lineas Aéreas Brasil
+1018,Shell Co of Ecuador
+1019,Transocean Air Lines
+1020,British European Airways
+1021,Military - Royal Canadian Air Force
+1022,Sabena
+1023,Canadian PacifiAir Lines
+1024,Mexicana
+1025,Flota Aérea Mercante Argentina
+1026,Slick Airways
+1027,Air France
+1028,Eastern Air Lines / Military - Bolivian Air Force
+1029,Harrington's Inc
+1030,Aero Holland
+1031,Air France
+1032,American Airlines
+1033,REAL
+1034,Arrow Airlines
+1035,Civil Air Transport
+1036,Civil Air Transport
+1037,Pakair
+1038,Capital Airlines
+1039,Mexicana
+1040,Sabena
+1041,Bharat Airways
+1042,Ejercito del Aire
+1043,Military - Bolivian Air Force
+1044,Societe Transatlantique Aerienne
+1045,Philippine Air Lines
+1046,Military - U.S. Air Force
+1047,KLM Royal Dutch Airlines
+1048,Ceskoslovenske Aerolinie
+1049,Northwest Orient Airlines
+1050,Societe Indochinoise de Transport Aeriens
+1051,Fairflight Ltd.
+1052,Devlet Hava Yollairi
+1053,SEMAF
+1054,Deccan Airways
+1055,Lineas Aéreas Nacionales
+1056,Military - U.S. Air Force
+1057,AVIANCA
+1058,Military - U.S. Air Force
+1059,Military - U.S. Air Force
+1060,Regina Cargo Airlines
+1061,Aerovias Brasil
+1062,Westair Transport
+1063,New Tribes Mission
+1064,Air France
+1065,Air France
+1066,Northwest Orient Airlines
+1067,Ansett ANA
+1068,Military - U.S. Air Force
+1069,Aigle Azur
+1070,Indian National Airlines
+1071,DTA Angola Airlines
+1072,Military - U.S. Air Force
+1073,Panair do Brasil
+1074,Cie Air Transport
+1075,Military - U.S. Air Force
+1076,Military - Royal Air Force
+1077,Trans World Airlines
+1078,Robinson Airlines
+1079,Iran Air
+1080,Military - U.S. Navy
+1081,JAT Yugoslav Airlines
+1082,Svenska Aero
+1083,Military - U.S. Air Force
+1084,Air Atlas
+1085,Northwest Orient Airlines
+1086,British European Airways
+1087,British European Airways
+1088,Air India
+1089,Northwest Orient Airlines
+1090,Curtiss-Reid Flying Services Ltd. (Canada)
+1091,Garuda Indonesia Airlines
+1092,New Tribes Mission
+1093,Faucett
+1094,Indamer
+1095,Iran Air
+1096,Air Atlas
+1097,T.A. Intercontinentaux
+1098,Air India
+1099,VASP
+1100,Avensa
+1101,Military - U.S. Air Force
+1102,Canadian PacifiAir Lines
+1103,Aerolineas Argentinas
+1104,United Airways
+1105,Air Carriers
+1106,National Airlines
+1107,Northwest Orient Airlines
+1108,Alitalia
+1109,Military -Royal Air Force
+1110,Icelandair
+1111,Military - Portuguese Air Force
+1112,Air France
+1113,Lineas Aéreas Nacionales
+1114,Mid Continent Airlines
+1115,PacifiOverseas Airways
+1116,LANSA
+1117,Military - U.S. Air Force
+1118,Military - Pakistan Air Force
+1119,Cruzeiro
+1120,Aerolineas Argentinas
+1121,AVIANCA
+1122,Southwest Airways
+1123,Military - U.S. Air Force
+1124,Siamese Airways
+1125,Cubana de Aviacion / Military -  US Navy
+1126,United Air Lines
+1127,Military - U.S. Air Force
+1128,Hunting Air Travel
+1129,VASP
+1130,Military - U.S. Air Force
+1131,Lineas Aéreas Trans. Brasileira
+1132,Sociedad Aeronautica Medellin
+1133,Pan American World Airways
+1134,JAT Yugoslav Airlines
+1135,United Air Lines
+1136,Indamer
+1137,Loide Aereo Nacional
+1138,Military - U. S. Air Force
+1139,Military - Royal Air Force
+1140,Qantas
+1141,Air Outre-Mer
+1142,Canadian PacifiAir Lines
+1143,Sabena
+1144,Loide Aéreo Nacional
+1145,Trans Australia Airlines
+1146,Air France
+1147,REAL
+1148,United Air Lines
+1149,VASP
+1150,United Air Lines
+1151,Societe Alpes Provence
+1152,Air India
+1153,Frigorifico Cooperativo Los Andes
+1154,Aero Transportes
+1155,South African Airways
+1156,Military - U.S. Air Force
+1157,Queen Charlotte Airlines
+1158,JAT Yugoslav Airlines
+1159,Military - Guatemalan Air Force
+1160,Transocean Air Lines
+1161,Devlet Hava Yollari
+1162,Deccan Airways
+1163,El Al
+1164,Lineas Aereas Unidas
+1165,United Air Lines
+1166,Qantas
+1167,Miami Airlines
+1168,Misrair
+1169,Continental Charters
+1170,Transocean Air Lines
+1171,Military - U.S. Air Force
+1172,Kalinga Airlines
+1173,Air France
+1174,Aer Lingus
+1175,Northwest Orient Airlines
+1176,American Airlines
+1177,Sabena
+1178,Military - U.S. Air Force
+1179,National Airlines
+1180,Flying Tiger Line
+1181,Hunting Air Travel
+1182,STAAP
+1183,Deccan Airways
+1184,Panair do Brasil
+1185,Air France
+1186,Philippine Air Lines
+1187,Military - U.S. Air Force / U.S. Air Force
+1188,Maritime Central Airways
+1189,KLM Royal Dutch Airlines
+1190,Société Aérienne de Tr. Tropicaux
+1191,Aeroflot
+1192,TACA
+1193,Philippine Air Lines
+1194,US Airlines
+1195,Japan Air Lines
+1196,Kalinga Airlines
+1197,Pan American World Airways
+1198,North Continental Airlines (Robin Airlines)
+1199,Aviateca
+1200,Pan American World Airways
+1201,Deccan Airways
+1202,Fred Olsen Flyveselskap
+1203,Garuda Indonesia Airlines
+1204,VASP
+1205,Loide Aéreo Nacional
+1206,British Overseas Airways
+1207,Swedish Air Force
+1208,Military - U.S. Air Force
+1209,Military - Royal Air Force
+1210,Pan American World Airways
+1211,Transportes Areos Nacionales
+1212,Airwork
+1213,Military - Pakistan Air Force
+1214,Phoenix Airlines
+1215,Private - de Havilland Aircraft
+1216,SAM Colombia
+1217,Military - U.S. Air Force
+1218,Kalinga Airlines
+1219,Military - Royal Air Force
+1220,REAL
+1221,Military - U.S. Air Force
+1222,Military - U.S. Air Force
+1223,Union Aeromaritime de Transport
+1224,Military - U.S. Air Force
+1225,Military - U.S. Air Force
+1226,Military - U.S. Air Force
+1227,Military - U.S. Air Force
+1228,Military - U.S. Air Force
+1229,Military - U.S. Air Force
+1230,TABSO
+1231,Cubana de Aviacion
+1232,Military - U.S. Air Force
+1233,Rutas Aéreas Nacionales SA
+1234,Avensa
+1235,Iran Air
+1236,Philippine Air Lines
+1237,British European Airways
+1238,Avia-Taxi
+1239,Associated Air Transport
+1240,Military -Royal Air Force
+1241,Linee Aeree Italiane
+1242,Lancashire Aircraft Corporation (Skyways)
+1243,Air Outremer
+1244,Autrex
+1245,Military - Egyptian Air Force
+1246,National Airlines
+1247,Canadian PacifiAir Lines
+1248,Slick Airways
+1249,Orient Airways
+1250,Aigle Azur
+1251,Military - U.S. Air Force
+1252,Transocean Air Lines
+1253,Transportes Aéreos Salvador
+1254,Central African Airways
+1255,Caribbean International Airways
+1256,Air France
+1257,Airways
+1258,Miami Airlines
+1259,Aigle Azur
+1260,Western Airlines
+1261,British Overseas Airways
+1262,Military - Royal Air Force
+1263,Air India
+1264,Canadian PacifiAir Lines
+1265,Delta Air Lines
+1266,KLM Royal Dutch Airlines
+1267,LAN
+1268,LACSA
+1269,Aigle Azur
+1270,Panair do Brasil
+1271,Military - U.S. Air Force
+1272,Transocean Air Lines
+1273,Military - U.S. Navy
+1274,Aeroflot
+1275,Associated Airways
+1276,Air France
+1277,Orient Airways
+1278,Military - U.S. Air Force
+1279,Aerovias Contreras
+1280,Air France
+1281,Regina Cargo Airlines
+1282,TACA
+1283,Transportes Aéreos Mexicanos
+1284,American Airlines
+1285,Devlet Hava Yollari
+1286,Resort Airlines
+1287,Sabena
+1288,Compagnie Sila
+1289,Aerovias Contreras
+1290,Eastern Air Lines
+1291,British Commonwealth PacifiAirlines
+1292,Lloyd Aereo Boliviano
+1293,Military - Royal Air Force
+1294,Aviaco
+1295,Indian Airlines
+1296,Sabena
+1297,Syrian Airways
+1298,Ariana Afghan Airlines
+1299,Devlet Hava Yollari
+1300,Military -Royal Air Force
+1301,British Overseas Airways
+1302,AVIANCA
+1303,Military - U.S. Air Force
+1304,Philippine Air Lines
+1305,Ceskoslovenske Aerolinie
+1306,Zantop Air Transport
+1307,Military - U.S. Air Force
+1308,Military - U.S. Air Force
+1309,Military - Royal Air Force
+1310,Indian Airlines
+1311,Western Airlines
+1312,Military - U.S. Air Force
+1313,British Overseas Airways
+1314,Queensland Airlines
+1315,Military - U.S. Air Force
+1316,Aeronaves de Mexico
+1317,Devlet Hava Yollari
+1318,Autrex
+1319,British Overseas Airways
+1320,Trans Canada Air Lines / RCAF
+1321,LAN
+1322,Societe Indochinoise de Raviteillement
+1323,Aerolineas Argentinas
+1324,Darbhanga Aviation
+1325,New Zealand National Airways
+1326,Transportes Aereos Nacionales
+1327,Sabena
+1328,Varig
+1329,Soc. de Tr. Aériens d'Extrême Orient
+1330,Swissair
+1331,Military - Brazilian Air Force
+1332,Cathay PacifiAirways
+1333,Alaska Airlines
+1334,AVIANCA
+1335,Autrex
+1336,Air Vietnam (South Vietnam)
+1337,Braniff Airlines
+1338,KLM Royal Dutch Airlines
+1339,British European Airways
+1340,Military - U.S. Air Force
+1341,KLM Royal Dutch Airlines
+1342,Cruzeiro
+1343,Misrair
+1344,Military - U.S. Air Force
+1345,Military - U.S. Navy
+1346,Military - U. S. Navy
+1347,TAA
+1348,TAM (Brazil)
+1349,Northeast Airlines
+1350,Air Laos
+1351,Ceskoslovenské Aerolinie
+1352,Linea Aeropostal Venezolana
+1353,Linee Aeree Italiane
+1354,Johnson Flying Service
+1355,British Overseas Airways
+1356,Aeroflot
+1357,Aeroflot
+1358,Military -Royal Air Force
+1359,Trans World Airlines / Castleton Inc.
+1360,United Air Lines
+1361,Interamericana de Aviacion
+1362,Indian Airlines
+1363,West African Airways
+1364,Sabena
+1365,Trans World Airlines
+1366,Central African Airways
+1367,REAL
+1368,Mexicana
+1369,AVIANCA
+1370,American Airlines
+1371,Military - U.S. Navy
+1372,Pan American World Airways
+1373,Aaxico Airlines
+1374,United Air Lines
+1375,Air India
+1376,Union des Transportes Aeriens
+1377,East African Airways
+1378,Linea Aeropostal Venezolana
+1379,Associated Airways
+1380,Union Aéromaritime de Transport
+1381,Panair do Brasil
+1382,Tigres Voladores
+1383,Lineas Areas Unidas
+1384,Braniff Airlines
+1385,El Al
+1386,American Airlines
+1387,Aeroflot
+1388,Military - U.S. Air Force / Military - U.S. Air Force
+1389,Cruzeiro
+1390,Kalinga Airlines
+1391,Union of Burma Airways
+1392,Currey Air Transport
+1393,Societe France Hydro
+1394,PacifiWestern Airlines
+1395,British Overseas Airways
+1396,Flying Tiger Line
+1397,Faucett
+1398,United Air Lines
+1399,JAT Yugoslav Airlines
+1400,United Air Lines
+1401,Peninsular
+1402,Military - U.S. Air Force
+1403,Military - US Air Force
+1404,Military - U.S. Air Force
+1405,Cruzeiro
+1406,Riddle Airlines
+1407,Cruzeiro Do Sud
+1408,Eastern Air Lines
+1409,Ansett ANA
+1410,Quebecair
+1411,Ceskoslovenske Aerolinie
+1412,Air France
+1413,Maritime Central Airways
+1414,Spartan Air Services
+1415,Military - U.S. Marine Corps
+1416,Scottish Airlines
+1417,Transport Aerien Intercontinentaux (France)
+1418,Syrian Airways
+1419,Pakistan International Airlines
+1420,Indian Airlines
+1421,Starways
+1422,National Air Operators
+1423,Military - Royal Thai Air Force
+1424,Trans World Airlines
+1425,Northwest Orient Airlines
+1426,Cordova Airlines
+1427,Panair do Brasil
+1428,Scottish Airlines
+1429,Indian Airlines
+1430,Military - Royal Canadian Air Force
+1431,Aviateca
+1432,Linea Aeropostal Venezolana
+1433,British Overseas Airways
+1434,United Air Lines / Trans World Airlines
+1435,Trans Canada Air Lines
+1436,Military - U.S. Air Force
+1437,Aerolineas Argentinas
+1438,Union of Burma Airways
+1439,Canadian PacifiAir Lines
+1440,Jordan International Airlines
+1441,Continental Airlines
+1442,Alaska Airlines
+1443,Military - U.S. Navy
+1444,Pan American World Airways
+1445,Indian Airlines
+1446,Military - Egyptian Air Force
+1447,Britavia
+1448,Braathens
+1449,Aerovias Guest
+1450,Varig
+1451,Empresa Aviacion del Pacifico
+1452,Ceskoslovenske Aerolinie
+1453,Linee Aeree Italiane
+1454,Linea Aeropostal Venezolana
+1455,AIDA
+1456,Trans Canada Air Lines
+1457,Air France
+1458,JAT Yugoslav Airlines
+1459,Linee Aeree Italiane
+1460,Military - U.S. Air Force
+1461,American Airlines
+1462,Fuerza Aérea Argentina
+1463,Lanica
+1464,Air France
+1465,Douglas Aircraft
+1466,Northeast Airlines
+1467,Military - U.S. Air Force
+1468,Alaska Airlines
+1469,Military -Royal Air Force
+1470,AVIANCA
+1471,British European Airways
+1472,Military - Philippine Air Force
+1473,Lloyd Aereo Boliviano
+1474,Military - U.S. Air Force
+1475,Varig
+1476,Air France
+1477,REAL
+1478,Transportes Aéreos Mexicanos
+1479,Military -Royal Air Force
+1480,Air France
+1481,Eagle Aviation
+1482,Indian Airlines
+1483,Aviaco
+1484,Lineas Aereas del Estado
+1485,U.S. Overseas Airways
+1486,Indian Airlines
+1487,LOT Polish Airlines
+1488,Swissair
+1489,Capital Airlines
+1490,Queen Charlotte Airlines
+1491,Pakistan International Airlines
+1492,KLM Royal Dutch Airlines
+1493,Western Airlines
+1494,Maritime Central Airways
+1495,Aeroflot
+1496,Indamer
+1497,Sahsa Airlines
+1498,Avensa
+1499,Northeast Airlines
+1500,REAL
+1501,British European Airways
+1502,Lebanese International Airways
+1503,British European Airways
+1504,Iberia Airlines
+1505,Transportes Aereos Mexicanos
+1506,Bristol Aeroplane Co.
+1507,Pan American World Airways
+1508,Aviaco
+1509,Aquilla Airways
+1510,Straits Air Freight Express
+1511,Aerolineas Argentinas
+1512,Northern Wings
+1513,Philippine Air Lines
+1514,Scottish Airlines
+1515,Military - U.S. Navy
+1516,Aerolineas Argentinas
+1517,Cruzeiro
+1518,TAM (Bolivia)
+1519,Loide Aéreo Nacional
+1520,Pakistan International Airlines
+1521,Military - U.S.  Air Force / Military - U.S. Navy
+1522,British European Airways
+1523,Réseau Aérien Interinsulaire
+1524,Military - U.S. Navy
+1525,Silver City Airways
+1526,Military - U.S. Marine Corps/Military - U.S. Marine Corps
+1527,Misrair
+1528,Private
+1529,Indian Airlines
+1530,Braniff Airlines
+1531,Military - U.S. Air Force/Military - U.S. Air Force
+1532,Transportes Aereos Orientales
+1533,Capital Airlines
+1534,AREA
+1535,Aviaco
+1536,United Air Lines / Military - U.S. Air Force
+1537,Sabena
+1538,Capital Airlines / Military - Air National Guard
+1539,Dan-Air Services
+1540,Air France
+1541,Paraense Transportes Aéreos
+1542,Pan American World Airways
+1543,Aeronaves de Mexico
+1544,Capital Airlines
+1545,Cruzeiro
+1546,Indian Airlines
+1547,Military - U.S. Air Force
+1548,Indian Airlines
+1549,Central African Airways
+1550,All Nippon Airways
+1551,LANSA
+1552,KLM Royal Dutch Airlines
+1553,Northeast Airlines
+1554,Aeroflot
+1555,Military - U.S. Air Force
+1556,Independent Air Travel
+1557,Military - U.S. Air Force
+1558,Loide Aereo Nacional
+1559,Military - U.S. Air Force / U.S. Air Force
+1560,Flying Tiger Line
+1561,Military - U.S. Air Force
+1562,Middle East Airlines
+1563,Military - U.S. Air Force
+1564,Linea Aeropostal Venezolana
+1565,TAM (Bolivia)
+1566,Aeroflot
+1567,Military - U.S. Navy
+1568,British European Airways
+1569,Cubana de Aviacion
+1570,Yemen Airlines
+1571,TAM (Bolivia)
+1572,ARTOP Aerotopografica LDA
+1573,Capitol Airways
+1574,Aviaco
+1575,BOAC
+1576,Union Aeromaritime de Transport
+1577,VASP
+1578,Ethiopian Airlines
+1579,Sahsa Airlines
+1580,Southeast Airlines
+1581,Lufthansa
+1582,California Air Freight
+1583,Austral Lineas Aeras (Argentina)
+1584,Linea Expresa Bolivar
+1585,Air Jordan
+1586,Air Charter
+1587,General Airways
+1588,Dwyer Flying Service - Private Charter
+1589,American Airlines
+1590,Turkish Airlines (THY)
+1591,Southern Cross Airways
+1592,Ariana Afghan Airlines
+1593,TACA
+1594,Indian Airlines
+1595,Aviaco
+1596,Union Aeromaritime de Transport
+1597,Indian Airlines
+1598,Riddle Airlines
+1599,Tigres Voladores
+1600,Air Charter
+1601,Iberia Airlines
+1602,Austria-Flugdienst
+1603,Capital Airlines
+1604,Capital Airlines
+1605,Transportes Aereos Peruanas
+1606,Aerolineas Argentinas
+1607,Lineas Aéreas Interpolar
+1608,Aerolineas Nacionales
+1609,AVIANCA
+1610,Trans World Airlines
+1611,Military - U.S. Air Force
+1612,Kalinga Airlines
+1613,Pakistan International Airlines
+1614,American Airlines
+1615,Transair
+1616,Aerolineas Argentinas
+1617,Aaxico Airlines
+1618,Mexicana
+1619,Pan American World Airways
+1620,VASP
+1621,T.A. Intercontinentaux (France)
+1622,Reeve Aleutian Airlines
+1623,Braniff Airlines
+1624,PacifiAir Lines
+1625,OlympiAirways
+1626,Piedmont Airlines
+1627,Wheeler Airlines
+1628,National Airlines
+1629,Aeroflot
+1630,Trans World Airlines
+1631,Allegheny Airlines
+1632,Sociedad Aeronautica Medellin
+1633,Aeroflot
+1634,California Aircraft
+1635,Alitalia
+1636,VASP
+1637,Garuda Indonesia Airlines
+1638,Lloyd Aereo Boliviano
+1639,Indian Airlines
+1640,National Airlines
+1641,Military - U.S. Army
+1642,Capital Airlines
+1643,Scandinavian Airlines (SAS)
+1644,Aeroflot
+1645,AVIANCA
+1646,Transportes Aéreos de Timor
+1647,Lloyd Aereo Boliviano
+1648,REAL / Military - U.S. Navy
+1649,Alitalia
+1650,Aeroflot
+1651,Agencia Interamericana de Aviada
+1652,All Nippon Airways
+1653,Northwest Orient Airlines
+1654,SAMSA
+1655,Lanica
+1656,Cruzeiro
+1657,Military - Royal Thai Air Force
+1658,Military - U.S. Air Force
+1659,Lloyd Aereo Colombiano
+1660,Piedmont Airlines / Private
+1661,Sobelair SA (Belgium)
+1662,Linea Aeropostal Venezolana
+1663,Balair
+1664,Aerolineas Argentinas
+1665,Transamerican Air Transport
+1666,Delta Air Lines
+1667,Trans Australia Airlines
+1668,PacifiNorthern Airlines
+1669,REAL
+1670,Military - U.S. Navy
+1671,Gulf Aviation (Kalinga Airways)
+1672,Military - U.S. Air Force
+1673,Northwest Orient Airlines
+1674,Ethiopian Airlines
+1675,Military - Royal Belgian Air Force
+1676,Chicago Helicopter Airways
+1677,Deutsche Flugdienst
+1678,TAM (Bolivia)
+1679,Aeroflot
+1680,Military - French Naval Aviation
+1681,Don Everall Aviation
+1682,Air France
+1683,World Airways
+1684,Military - U.S. Marine Corps
+1685,Austrian Airlines
+1686,Mexicana
+1687,United Arab Airlines
+1688,Eastern Air Lines
+1689,Itavia
+1690,Capitol Airways
+1691,Aeroflot
+1692,Northwest Orient Airlines
+1693,ArctiPacific
+1694,Royal Nepal Airlines
+1695,AREA
+1696,Philippine Air Lines
+1697,REAL
+1698,Military - Argentine Air Force
+1699,LAN
+1700,Air France
+1701,Military - U.S. Air Force
+1702,United Air Lines / Trans World Airlines
+1703,Military - U.S. Air Force
+1704,Philippine Air Lines
+1705,Ceskoslovenske Aerolinie
+1706,Finnair
+1707,Aeronaves de Mexico
+1708,Military - U.S. Navy
+1709,Garuda Indonesia Airlines
+1710,Military - U.S. Air Force
+1711,American Airlines
+1712,Garuda Indonesia Airlines
+1713,Sabena
+1714,Linea Aeropostal Venezolana
+1715,Military - Brazilian Air Force
+1716,Ceskoslovenske Aerolinie
+1717,Military - Royal Air Force
+1718,KLM Royal Dutch Airlines
+1719,KLM Royal Dutch Airlines
+1720,Continentale Deutsche Luftreederei
+1721,Transcontinental
+1722,Aeroflot
+1723,United Air Lines
+1724,Ceskoslovenske Aerolinie
+1725,Aerolineas Argentinas
+1726,Alaska Airlines
+1727,Malev Hungarian Airlines
+1728,Cunard Eagle Airways
+1729,Air America
+1730,Eastern Provincial Airways
+1731,Trans World Airlines
+1732,Ethiopian Airlines
+1733,Lineas Aéreas Costarricenses
+1734,Garuda Indonesia Airlines
+1735,President Airlines
+1736,Air France
+1737,United Nations Organization
+1738,Northwest Orient Airlines
+1739,Turkish Airlines (THY)
+1740,Derby Aviation
+1741,Military - Royal Air Force
+1742,Bristol 170 Freighter 31M
+1743,Panair do Brasil
+1744,Imperial Airways
+1745,Air Haiti International
+1746,Aerolineas Argentinas
+1747,Military - Força Aérea Portuguesa
+1748,Ansett ANA
+1749,Lufthansa
+1750,Military - Belgian Air Force
+1751,Lanica
+1752,British European Airways
+1753,Kodiak Airways
+1754,Corporacion Boliviano de Fomento
+1755,Aeroflot
+1756,Faucett
+1757,Avensa
+1758,Avianca
+1759,American Airlines
+1760,Caledonian Airways
+1761,South African Airways
+1762,Turkish Airlines (THY)
+1763,Societa Aerea Mediterranea
+1764,Military - U.S. Air Force
+1765,Flying Tiger Line
+1766,Flying Tiger Line
+1767,Military - French Air Force
+1768,Cubana de Aviacion
+1769,Military - Colombian Air Force
+1770,AVISPA
+1771,Iberia Airlines
+1772,East Anglian Flying Services
+1773,Military - Union of Burma Air Force
+1774,Cruzeiro
+1775,East Provincial Airways
+1776,United Arab Airlines
+1777,Military - U.S. Air Force
+1778,Military - U.S. Navy
+1779,Continental Airlines
+1780,Air France
+1781,Aeroflot
+1782,Air France
+1783,Aeroflot
+1784,Aeroflot
+1785,Aeroflot
+1786,Alitalia
+1787,Trans Mediterranean Airways
+1788,Indian Airlines
+1789,Kalinga Airlines
+1790,United Arab Airlines
+1791,Canadian PacifiAir Lines
+1792,Aeroflot
+1793,Air France
+1794,Royal Nepal Airlines
+1795,Panair do Brazil
+1796,Taxader Airlines
+1797,Faucett
+1798,Aeroflot
+1799,Military - Japan Maritime Self Defense Force
+1800,Private - Ashland Oil Company
+1801,Ceskoslovenske Aerolinie
+1802,Military - U.S. Air Force
+1803,Aerolineas Abaroa
+1804,Kalinga Airlines
+1805,Flying Tiger Line
+1806,Trans Canada Air Lines
+1807,Philippine Air Lines
+1808,Avionas  Banamex
+1809,Allegheny Airlines
+1810,Aeroflot
+1811,Air Vietnam (South Vietnam)
+1812,All Nippon Airways
+1813,United Air Lines
+1814,Military - Portuguese Air Force
+1815,Malev Hungarian Airlines
+1816,VASP / Private
+1817,Varig
+1818,Eastern Air Lines
+1819,Taxader Airlines
+1820,Panair do Brasil
+1821,Flying Tiger Line
+1822,LOT Polish Airlines
+1823,Military - U.S. Air Force
+1824,Varig
+1825,Carvair ATL-98
+1826,Air Nautic
+1827,Commercial Air Taxi
+1828,Wien Alaska Airlines
+1829,Cruzeiro
+1830,West Coast Airlines
+1831,Skyvan Airways
+1832,Continental Airlines
+1833,Military - U.S. Navy
+1834,Middle East Airlines / Military - Turkish Air ForceC-47
+1835,Slick Airways
+1836,Aeroflot
+1837,Northwest Orient Airlines
+1838,Eastern Air Lines
+1839,Philippine Air Lines
+1840,Private
+1841,Middle East Airlines
+1842,Lloyd Aereo Boliviano
+1843,Saudi Arabian Royal Flight
+1844,Military - Japan Air Self Defense Force
+1845,Linjefyg
+1846,Itavia
+1847,Icelandair
+1848,Air Afrique
+1849,Cruzeiro
+1850,United Arab Airlines
+1851,Northwest Orient Airlines
+1852,Indian Airlines
+1853,Union of Burma Airways
+1854,Tarom
+1855,Military - Chilean Air Force
+1856,Military - Royal Belgian Air Force
+1857,Military - Belgian Air Force
+1858,Varig
+1859,Mohawk Airlines
+1860,New Zealand National Airways
+1861,Aeroflot
+1862,Air Madagascar
+1863,Air America
+1864,United Arab Airlines
+1865,Military - South African Air Force
+1866,Air Inter
+1867,American Air  Export & Import Co.
+1868,Fujita Koku Kabushki Kai
+1869,Aeroflot
+1870,Military - U.S. Air Force / Military -  U.S. Air Force
+1871,Swissair
+1872,Air Nautic
+1873,Indian Airlines
+1874,Military - U.S. Air Force
+1875,Aeronaves de Panama
+1876,New York Airways
+1877,Military - Soviet Air Force
+1878,Aeroflot
+1879,British Aircraft Corporation
+1880,Finnair
+1881,Trans Canada Air Lines
+1882,Zantop Air Transport
+1883,Pan American World Airways
+1884,Trans Mediterranean Airways
+1885,Misrair
+1886,Western Airlines
+1887,Aerolineas Litoral Argentina
+1888,Commercial Air Taxi
+1889,Turkish Airlines (THY)
+1890,South Central Airlines
+1891,Lloyd Aéreo Boliviano
+1892,Private air taxi
+1893,Commercial Air Taxi
+1894,Military - Indian Air Force
+1895,Philippine Air Lines
+1896,Military - Indian Air Force
+1897,Commercial Air Taxi
+1898,Eastern Air Lines
+1899,Fuji Airlines
+1900,British Eagle International Airlines
+1901,Paradise Airlines
+1902,Taxi Aereo de Santander
+1903,Snow Valley Ski Lines
+1904,Slick Airways - Cargo
+1905,Frontier Airlines
+1906,Commercial Air Taxi
+1907,Alitalia
+1908,Private - Facilities Management Co.
+1909,Aden Airways
+1910,Middle East Airlines
+1911,Wein Alaska Airlines Inc.
+1912,PacifiAir Lines
+1913,Military - Argentine Air Force
+1914,Fuerza Aérea Argentina
+1915,Military - U.S. Air Force
+1916,Philippine Air Lines
+1917,VASP
+1918,Commercial Air Taxi
+1919,Saudi Arabian Airlines
+1920,Private - Air Taxi
+1921,Civil Air Transport
+1922,TASSA
+1923,Commercial Air Taxi
+1924,United Air Lines
+1925,Trans World Airlines
+1926,United Air Lines
+1927,Commercial Air Taxi
+1928,Eastern Air Lines
+1929,Private
+1930,Commercial Air Taxi
+1931,Wiggins Airways
+1932,Servicios Aéreos Cochabamba
+1933,Aeroflot
+1934,VASP
+1935,Military - Royal Thai Air Force
+1936,AVIANCA
+1937,Union des Transportes Aeriens
+1938,Interocean
+1939,Tarom
+1940,Commercial Air Taxi
+1941,Military - Soviet Air Force
+1942,Mustang Aviati
+1943,Bonanza Airlines
+1944,Military - U.S. Navy
+1945,Air America
+1946,Air Congo
+1947,Commercial Air Taxi
+1948,Aerolineas Abaroa
+1949,Military - Vietnamese Air Force
+1950,Fleming Airways System Transport
+1951,SATCO
+1952,Flying Tiger Line
+1953,Lineas Aéreas Sud Americana
+1954,Zantop Air Transport
+1955,Alva Aircraft Service - Taxi
+1956,Fairbanks Air Service - Taxi
+1957,Military - U.S. Air Force
+1958,Aerovias del Norte
+1959,Military - U.S. Air Force
+1960,Air Cameroon
+1961,LAN
+1962,Eastern Air Lines
+1963,Aerolineas El Salvador
+1964,Zen Nippon
+1965,Air Taxi
+1966,Military - U.S. Air Force
+1967,Fairways
+1968,Aeroflot
+1969,Eastern Provincial Airways
+1970,AVIANCA
+1971,Military - Royal Canadian Air Force
+1972,Pakistan International Airlines
+1973,Iberia Airlines
+1974,Ortner Air Service - Taxi
+1975,Alia Royal Jordanian Airlines
+1976,British United Airways
+1977,Baker Aero Inc. - Taxi
+1978,Aaxico Airlines
+1979,Iberia Airlines
+1980,Pakistan International Airlines
+1981,Military - U.S. Army / Military - U.S. Army
+1982,Military - U.S. Air Force
+1983,Pan American World Airways
+1984,Continental Airlines
+1985,Pakistan International Airlines
+1986,Military -Royal Air Force
+1987,Military - Soviet Air Force
+1988,Canadian PacifiAir Lines
+1989,Military - U.S. Air Force
+1990,Virgin Islands Airways
+1991,Military - Japan Maritime Self Defense Force
+1992,Military - Philippine Air Force
+1993,Rutas Internacionales Peruanes
+1994,Paraense Transportes Aéreos
+1995,United Air Lines
+1996,LOT Polish Airlines
+1997,Military - U.S. Marine Corps
+1998,Cordova Airlines
+1999,Filipinas Orient Airways
+2000,Ethiopian Airlines
+2001,TAO
+2002,Air Vietnam (South Vietnam)
+2003,Pan American World Airways
+2004,Military - Chilian Air Force
+2005,AVIANCA
+2006,Kalinga Airlines
+2007,International Control Commision
+2008,Philippine Air Lines
+2009,British European Airways
+2010,Military - French Air Force
+2011,Military - Argentine Air Force
+2012,Aerolineas TAO
+2013,American Airlines
+2014,Aeroflot
+2015,United Air Lines
+2016,Skyway Air  - Taxi
+2017,Paul Kelly Flying Service Inc.
+2018,Edde Airlines
+2019,Trans World Airlines / Eastern Air Lines
+2020,Aeropesca Colombia
+2021,Spantax
+2022,Military - U.S. Air Force
+2023,Air Taxi
+2024,Air Manila
+2025,Ray A. Gardner - Taxi
+2026,Garuda  Indonesia Airlines / Garuda Indonesia Airlines
+2027,AVIANCA
+2028,COHATA
+2029,Air India
+2030,Military - U.S. Air Force
+2031,Devener Flying Service - Taxi
+2032,Lufthansa
+2033,All Nippon Airways
+2034,Indian Airlines
+2035,Beatty Flying Service - Taxi
+2036,Indian Airlines
+2037,Belgian International Air Services
+2038,Canadian PacifiAir Lines
+2039,Alamo Airways
+2040,British Overseas Airways
+2041,Bassett Complany - Taxi
+2042,
+2043,Trans Mediterranean Airways
+2044,United Arab Airlines
+2045,Servicios Americanos
+2046,Layman Weikle - Taxi
+2047,Military - U.S. Navy
+2048,Continental Air Services
+2049,American Flyers Airline
+2050,LANSA
+2051,Military - U.S. Army
+2052,Kurtzer Flying Service - Taxi
+2053,Military - U.S. Air Force
+2054,Zantop Air Transport
+2055,Nordair
+2056,McCoy Flying Service - Taxi
+2057,Lackey Aero Company - Taxi
+2058,Philippine Air Lines
+2059,Air New Zealand
+2060,Private - Mainline Aviation
+2061,Lloyd Aéreo Boliviano
+2062,Braniff Airlines
+2063,Tarom
+2064,Aeronaves de Mexico
+2065,NC Simpson - Taxi
+2066,Richland Aviation  - Taxi
+2067,Military - U.S. Marine Corps
+2068,Aerovias Halcon
+2069,Alaska Coastal Airlines
+2070,Britannia Airways
+2071,Indian Airlines
+2072,Iberia Airlines
+2073,Ansett ANA
+2074,Avianca
+2075,West Coast Airlines
+2076,Military - U.S. Army
+2077,Petroleum Helicopter
+2078,Aeroflot
+2079,Warsaw Aviation - Taxi
+2080,Gastonia Aviation - Taxi
+2081,Chester Airport
+2082,Military - U.S. Air Force
+2083,All Nippon Airways
+2084,Pan American Airways
+2085,Piedmont Airlines
+2086,Aden Airways
+2087,Transportno Aviatsionno Bulgaro-Soviet Obshchestvo
+2088,Military - U.S. Air Force
+2089,Cruzeiro do Sul
+2090,Aeroflot
+2091,Aerocondor de Colombia
+2092,Flying Tiger Line
+2093,AVIANCA
+2094,Red Bank Air Taxi
+2095,Channel Air Lift
+2096,Military - Japan Maritime Self Defense Force
+2097,Air Taxi
+2098,Air Ferry
+2099,Syrian Arab Airlines
+2100,Sadia
+2101,Avanti Aviation -Air Taxi
+2102,Misrair
+2103,Cubana de Aviacion
+2104,Swissair
+2105,Vercoa Air Service - Air Taxi
+2106,Garuda Indonesia Airlines
+2107,Sahsa Airlines
+2108,Philippine Air Lines
+2109,Varig
+2110,Lake Central Airlines
+2111,Compagnie Air Transport
+2112,Trans World Airlines / Private
+2113,Military - U.S. Navy
+2114,West Coast Airlines
+2115,Aeralpi
+2116,South African Airways
+2117,Harvey's Flying Service - Air Taxi
+2118,Harold E. Bell - Air Taxi
+2119,Delta Air Lines
+2120,Ace Flying Service
+2121,Caribbean Airlines
+2122,Lexington Air Taxi
+2123,Military - Republiof South Korea Air Force
+2124,Air Algerie
+2125,Military - Imperial Iranian Air Force
+2126,Globe Air
+2127,Military - U.S. Air Force
+2128,AVIANCA
+2129,Pelita Air Service
+2130,Military - U.S. Navy
+2131,Greylock Airways / Private
+2132,Greenbriar Airways
+2133,Military - Chilean Air Force
+2134,Nordair
+2135,Air Canada
+2136,Air Ferry Ltd
+2137,British Midland Airways
+2138,Military - U.S. Air Force
+2139,Saudi Arabian Airlines
+2140,Aer Turas
+2141,Aeronaves de Mexico
+2142,Military - Brazilian Air Force
+2143,Military - U.S. Air Force
+2144,Military - U.S. Air Force
+2145,Aer Lingus
+2146,Military - U.S. Air Force
+2147,Mohawk Airlines
+2148,Military - U.S. Marine Corps/Military - U.S. Marine Corps
+2149,Saudi Arabian Airlines
+2150,Thai International
+2151,Philippine Air Lines
+2152,Air Madagascar
+2153,Piedmont Airlines / Private
+2154,Vehu Akat
+2155,Taiwan Aviation
+2156,Hudgin Air Service
+2157,Military - French Air Force
+2158,Military - U.S. Air Force
+2159,Ceskoslovenske Aerolinie
+2160,Lester C. Bush - Air Taxi
+2161,Military - U.S. Air Force
+2162,Inter Island Air - Air Taxi
+2163,British European Airways
+2164,Bruns Air Service - Air Taxi
+2165,China Airlines (Taiwan)
+2166,Crest Airlines - Air Taxi
+2167,Iberia Airlines
+2168,Cathay PacifiAirways
+2169,Trans World Airlines
+2170,Aeroflot
+2171,Trans World Airlines
+2172,Livingston Helicopter - Air Taxi
+2173,Priority Air - Air Taxi
+2174,Military - U.S. Air Force
+2175,Lao Cathay Airlines
+2176,Faucett
+2177,Private
+2178,Kauai Helicopter - Air Taxi
+2179,Tulakes Aviaiton - Air Taxi
+2180,Military - Royal Air Force
+2181,Frontier Airlines
+2182,Thai Airways
+2183,Aeroflot
+2184,Executive Air - Air Taxi
+2185,Imperial Comm - Air Taxi
+2186,Tanana Air Taxi
+2187,Military - U.S. Marine Corps
+2188,Military - U.S. Marine Corps
+2189,United Arab Airlines
+2190,Mililtary - U.S. Navy
+2191,Military - U.S. Air Force
+2192,Air Comores
+2193,Military - U.S. Navy
+2194,Canadian PacifiAir Lines
+2195,Military - Indian Air Force
+2196,Civil Air Transport
+2197,Havasu City Air - Air Taxi
+2198,Royal Air Lao
+2199,Aeroflot
+2200,Air France
+2201,Military - U.S. Air Force
+2202,Air Manila
+2203,Military - French Air Force
+2204,Viking Airways - Air Taxi
+2205,Fortaire Aviation - Air Taxi
+2206,Aer Lingus
+2207,Ozark Air Lines / Private
+2208,Military - Russian Air Force
+2209,Military - U.S. Navy
+2210,British Overseas Airways
+2211,Ladeco
+2212,Canair Corp. - Air Taxi
+2213,Aerovias Rojas
+2214,Military - Royal Air Force
+2215,Military - U.S. Army / Military - U.S. Army
+2216,South African Airways
+2217,Aeroflot
+2218,Utility Helocopter - Air Taxi
+2219,Military - Pakistan Air Force
+2220,Braniff Airlines
+2221,Military - Royal Air Force
+2222,Military - U.S. Air Force
+2223,Phillips Flying Service - Air Taxi
+2224,Los Angeles Airways
+2225,Garuda Indonesia Airlines
+2226,Houston-Beech - Air Taxi
+2227,Pan American World Airways
+2228,Rinaldo Piaggio
+2229,Military Soviet  Air Force - Aeroflot
+2230,Military - U.S. Army
+2231,Purdue Airlines Inc.
+2232,BKS Air Transport
+2233,Red Aircraft Service - Air Taxi
+2234,Saudi Arabian Airlines
+2235,Sabena
+2236,Varig
+2237,Aerolineas Flecha Austral
+2238,Military - U.S. Air Force
+2239,Mid Island Air - Air Taxi
+2240,Aitalia
+2241,North Central Airlines / Private
+2242,British Eagle International Airlines
+2243,Piedmont Airlines
+2244,Continental Air Transport
+2245,Los Angeles Airways
+2246,United Arab Airlines
+2247,Linea Aeropostal Venezolana
+2248,Island Sky Ferry - Air Taxi
+2249,Westwing
+2250,Bulair TABSO
+2251,Far Aviation - Air Taxi / Speeds Flying - Air Taxi
+2252,Air France
+2253,Military - U.S. Air Force
+2254,Pan African Airlines
+2255,Kenai Air Service - Air Taxi
+2256,Military - U.S. Air Force
+2257,Military - U.S. Air Force / Military -  U.S. Army
+2258,Catalina - Vega - Air Taxi
+2259,Aerovias del Valle
+2260,Augusta Aviaiton - Air Taxi
+2261,Ceskoslovenske Aerolinie
+2262,Military - Turkish Air Force
+2263,Cruzeiro
+2264,Military - U.S. Air Force
+2265,Northeast Airlines
+2266,Barrow Air Service - Air Taxi
+2267,Japan Air Lines
+2268,Cable Commuter
+2269,Air America
+2270,Stikine Air Service - Air Taxi
+2271,Wien Consolidated Airlines
+2272,Conquest Airways - Air Taxi
+2273,Northwest Moon - Air Taxi
+2274,Pan American World Airways
+2275,Allegheny Airlines
+2276,Interior Airways
+2277,Pan American World Airways
+2278,Exportada De Sal S.A.
+2279,North Central Airlines
+2280,Military - U.S. Air Force
+2281,Wien Consolidated Airlines
+2282,MaRobertson-Miller Airlines
+2283,Servicios Aéreos Especiales
+2284,China Airlines (Taiwan)
+2285,ERA Helicopter
+2286,Ariana Afghan Airlines
+2287,Allegheny Airlines
+2288,China Air Lines
+2289,Scandinavian Airlines (SAS)
+2290,Air America
+2291,United Air Lines
+2292,Military - U.S. Air Force
+2293,Pudget Sound Air - Air Taxi
+2294,Military - U.S. Air Force
+2295,Mineral County Airlines
+2296,Far Eastern Air Transport
+2297,Prinair
+2298,Venezolana Internacional de Aviacion
+2299,Leamon Flying Service
+2300,United Arab Airlines
+2301,Avion Airways
+2302,Islands of the Bahamas Inc
+2303,LOT Polish Airlines
+2304,Military - U.S. Army
+2305,Air Canada
+2306,Military - U.S. Navy
+2307,Wigmo
+2308,Simpson Air Service - Air Taxi
+2309,Indian Airlines
+2310,Ghana Airways
+2311,Military - U.S. Air Force
+2312,Argentina CAA
+2313,Military - Argentine Air Force
+2314,Military - U.S. Army
+2315,Flying W Airways
+2316,Union of Burma Airways
+2317,Aero Transporti Italiani
+2318,Compania Mexicana de Aviacion
+2319,Eureka Aero Inc. - Air Taxi
+2320,Military - U.S. Air Force
+2321,Cascade Airways
+2322,Military - Indian Air Force
+2323,Air South
+2324,Royal Nepal Airlines
+2325,Interior Airways - Air Taxi
+2326,New York Airways
+2327,Safeway Airways
+2328,Trans Isle Air
+2329,Trans World Airlines
+2330,Air Algerie
+2331,Halvorson - Air Taxi
+2332,Canairelief Air
+2333,Prior Aviatoin - Air Taxi
+2334,Air America
+2335,TAO
+2336,Aeroflot
+2337,Air France
+2338,Aeroflot
+2339,Private Charter
+2340,Military - Royal Lao Air Force
+2341,Military - U.S. Air Force
+2342,SATENA
+2343,Allegheny Airlines / Forth Corporation
+2344,Philippine Air Lines
+2345,VASP
+2346,PacifiWestern Airlines
+2347,Air Vietnam (South Vietnam)
+2348,Mexicana
+2349,Lloyd Aereo Boliviano
+2350,Nordchurchaid
+2351,Military - U.S. Navy
+2352,Metro Commuter - Air Taxi
+2353,Austin Airways
+2354,Channel Flying Service - Air Taxi
+2355,Aeroflot
+2356,Mohawk Airlines
+2357,Nigeria Airways
+2358,OlympiAirways
+2359,Aroostook Air - Air Taxi
+2360,Military U.S. Navy
+2361,Air Vietnam (South Vietnam)
+2362,Air Laos
+2363,Galena Air Service - Air Taxi
+2364,Spantax
+2365,Military - Royal HelleniAir Force
+2366,Polynesian Airlines
+2367,Faucett
+2368,Buckeye Air Service - Air Taxi
+2369,Charter -Federal Electricity Commission
+2370,Royal Nepal Airlines
+2371,Aeroflot
+2372,TAG Airlines
+2373,Aeroflot
+2374,Aerolineas Argentinas
+2375,Tarom
+2376,Aeroflot
+2377,Pilgrim Airlines
+2378,Lineas Aéreas La Urraca
+2379,Compania Dominicana de Aviacion
+2380,Suburban Airlines - Air Taxi
+2381,Air Congo
+2382,Swissair
+2383,Bavaria Flug
+2384,Paraense Transportes Aereos
+2385,Military - U.S. Navy
+2386,Commuter Airline - Air Taxi
+2387,Grand Canyon Airlines
+2388,Royal Air Maroc
+2389,Aeroflot
+2390,East Coast Air - Air Taxi
+2391,Military - U.S. Air Force
+2392,Philippine Air Lines
+2393,Military - Italian Air Force
+2394,Trans Australia Airlines
+2395,Antillian Airlines
+2396,Military - U.S. Air Force
+2397,Somali Airlines
+2398,Philippine Air Lines
+2399,Executive Jet Sales Inc.
+2400,Aeroflot
+2401,Linea Aeropostal Venezolana
+2402,Aeroservice S de RL
+2403,Lehigh Acres Development Inc.
+2404,Ceskoslovenske Aerolinie
+2405,Philippine Air Lines
+2406,LADE
+2407,Reeder Flying Service
+2408,Dan Air Services
+2409,Air Canada
+2410,Military - Soviet Air Force
+2411,Del Rio Flying Service - Air Taxi
+2412,Flying Tiger Line
+2413,Military - Forces Militaires Françaises
+2414,Military - United States Navy
+2415,Pakistan International Airlines
+2416,Lineas Aereas Nacionales SA (Peru)
+2417,China Airlines (Taiwan)
+2418,Military - U.S. Army
+2419,Indian Airlines
+2420,Dutch Continental Airways
+2421,Aeroflot
+2422,Aeroflot
+2423,Trans International Airlines
+2424,San Juan Air
+2425,Eagle Flight - Air Taxi
+2426,Icelandair
+2427,Air Vietnam (South Vietnam)
+2428,Aeroflot
+2429,"Charter, Golden Eagle Aviation Inc."
+2430,Military - U.S. Air Force
+2431,Private
+2432,National Airways
+2433,Saturn Airways
+2434,Delaware Aviation - Air Taxi
+2435,Aerocosta Colombia
+2436,Southern Airways
+2437,Military - Vietnamese Air Force / Military - U.S. Army
+2438,Capital Airlines
+2439,Military - U.S. Air Force
+2440,Military - U.S. Air Force
+2441,Cargolux
+2442,Jamair
+2443,Tarom
+2444,Aeroflot
+2445,Trans Caribbean Airways
+2446,Pakistan International Airlines
+2447,Rousseau Aviaiton
+2448,Aeroflot
+2449,United Arab Airlines
+2450,American Airlines / Private
+2451,Balkan Bulgarian Airlines
+2452,L'Armée de L'Air
+2453,Fuerza Aérea del Peru
+2454,Aeroflot
+2455,Aramar
+2456,Korean Airlines
+2457,Linea Aeropostal Venezolana
+2458,Aeroflot
+2459,Jamie Ramirez - Air Taxi
+2460,TAME
+2461,Jamair
+2462,Western Airlines
+2463,Aeroflot
+2464,Military - Philippine Air Force
+2465,Monument Valle - Air Taxi
+2466,Costal Airway
+2467,New England Aviaiton
+2468,Apache Airlines - Air Taxi
+2469,Aviateca
+2470,Gay Airways - Air Taxi
+2471,Aviogenex (Yugoslavia)
+2472,Military - South African Air Force
+2473,Private
+2474,Malev Hungarian Airlines
+2475,Sudan Airways
+2476,Hughes Airwest  / Military - US Marine Air Corps
+2477,Allegheny Airlines
+2478,Military - U.S. Air Force
+2479,SAVCO
+2480,Shelter Cove Sea Park
+2481,Toa DomestiAirline (Japan)
+2482,Anchorage Helicopter - Air Taxi
+2483,Air Ivoire
+2484,Pan American World Airways
+2485,Aeroflot
+2486,All Nippon Airways /  Japanese Air Force
+2487,Pan American World Airways
+2488,Military - French Air Force
+2489,Aeroflot
+2490,Trans Alaska Helicopter - Air Taxi
+2491,Military - U.S. Army
+2492,Downeast Airlines
+2493,Indian Airlines
+2494,Alaska Airlines
+2495,Pan International
+2496,C and C Aviaiton - Air Taxi
+2497,Yemen Airlines
+2498,Malev Hungarian Airlines
+2499,Cruzeiro
+2500,British European Airways
+2501,Aeroflot
+2502,SceniAir Lines
+2503,Alpena Flying Service - Air Taxi
+2504,Aerolineas TAO
+2505,Chicago Southern Airlines
+2506,Military - Vietnamese Air Force
+2507,Monmouth Airways
+2508,Military - Royal Air Force
+2509,Merpati Nusantara Airlines
+2510,Aeroflot
+2511,China Airlines (Taiwan)
+2512,Military - U.S. Army
+2513,Aeroflot
+2514,Eastern Air Lines
+2515,Fuerza Area Angolaise
+2516,Balkan Bulgarian Airlines
+2517,Lineas Aereas Nacionales SA (Peru)
+2518,SAESA
+2519,Iberia Airlines
+2520,Kime Flying Service - Air Taxi
+2521,Turkish Airlines (THY)
+2522,Lineas Aéreas la Urraca
+2523,SATENA
+2524,JAT Yugoslav Airlines
+2525,PENAS
+2526,Air America
+2527,Clarkes Thunder - Air Taxi
+2528,TAC Colombia
+2529,Royal Air Lao
+2530,Hankins Airways - Air Taxi
+2531,Military - U.S. Air Force
+2532,Sun Valley Airways - Air Taxi
+2533,Alii Air Hawaii - Air Taxi
+2534,Mohawk Airlines
+2535,Military - U.S. Air Force
+2536,Sterling Airways
+2537,EgyptAir
+2538,Military - U.S. Air Force
+2539,AVENSA
+2540,VASP
+2541,Aero Transporti Italiani
+2542,Helaire Helicopter
+2543,East African Airways
+2544,SATCO
+2545,Air America
+2546,Military - U.S. Air Force
+2547,Aeroflot
+2548,Alitalia
+2549,Aerotechnia
+2550,Military - U.S. Army
+2551,Ross Aviation - Air Taxi
+2552,DTA Angola Airlines
+2553,General Air
+2554,Petrolium Helicopter
+2555,Amazonese Importacao e Exportacao
+2556,Delta Air Lines
+2557,Fairbanks Air - Air Taxi
+2558,Smyer Aircraft - Air Taxi
+2559,Military - U.S. Navy
+2560,Air America
+2561,Aerolineas Flecha Austral
+2562,Military - Vietnamese Air Force
+2563,Japan Air Lines
+2564,Cathay PacifiAirways
+2565,Air Central
+2566,Military - U.S. Air Force
+2567,Aeroflot
+2568,British European Airways
+2569,Prinair
+2570,Seventy Airways - Air Taxi
+2571,North Central Airlines / Air Wisconsin
+2572,Inter City Flug
+2573,Casino Air - Air Taxi
+2574,PacifiSouthwest Airlines
+2575,Aviaco
+2576,Military - U.S. Marine Corps
+2577,Military - Royal Norwegian Air Force
+2578,Charter
+2579,AVIANCA / AVIANCA
+2580,Military - U.S. Air Force
+2581,Indian Airlines
+2582,Interflug
+2583,Burma Airways
+2584,Lineas Areas Venezolanas
+2585,Military - Royal Australian Air Force
+2586,Aeroflot
+2587,Ansett Airlines of Papua New Guinea
+2588,Servicios Aereas Virgen de Copacabana
+2589,Ethiopian Airlines
+2590,Military - Royal Nepalese Air Force
+2591,Private
+2592,Air Vietnam (South Vietnam)
+2593,Spantax
+2594,Cambodia Air
+2595,Aeroflot
+2596,Flamingo Airlines - Air Taxi
+2597,Aeroflot
+2598,Uruguayan Air Force - TAMU
+2599,Private
+2600,OlympiAirways
+2601,Air Melanesie
+2602,Air Inter
+2603,Aero Transporti Italiani
+2604,Military - U.S. Army
+2605,Balkan Bulgarian Airlines
+2606,Metro Air Systems
+2607,Japan Air Lines
+2608,Luthi Aviation - Air Taxi
+2609,Spantax
+2610,EgyptAir
+2611,Military - U.S. Air Force
+2612,Superior Airways
+2613,Pakistan International Airlines
+2614,Red Carpet Flying Service - Air Taxi
+2615,United Air Lines
+2616,Zantop Airways
+2617,Delta Air Lines/ North Central Airlines
+2618,Military - U.S. Air Force
+2619,Air Guadeloupe
+2620,Braathens
+2621,Eastern Air Lines
+2622,American Express Leasing
+2623,PacifiWestern Airlines
+2624,British European Airways
+2625,Aeroflot
+2626,Alia Royal Jordanian Airlines
+2627,Air Transit - Air Taxi
+2628,TAN
+2629,Air Sinai
+2630,Harry Faulkner - Air Taxi
+2631,Aeroflot
+2632,Petrolium Helo Inc.
+2633,Aerovias Urraca
+2634,Libya Arab Airlines
+2635,Air Taxi
+2636,Aeroflot
+2637,Aeroflot
+2638,Military - Polish Air Force
+2639,Military - Polish Air Force
+2640,Merpati Nusantara Airlines
+2641,Balkan Bulgarian Airlines
+2642,Aviaco
+2643,Lineas Aereas de Espana/Spantax SA Transportes
+2644,Air America
+2645,Indian Airlines
+2646,Military - U.S. Navy
+2647,Air Vietnam (South Vietnam)
+2648,Invicta International Airlines (UK)
+2649,Military - U.S. Navy / NASA
+2650,Military - U.S. Navy
+2651,Bakhtar Afghan Airlines
+2652,Air Iowa
+2653,Air Taxi
+2654,Winship Air Service - Air Taxi
+2655,Aeroflot
+2656,Cambodia Air
+2657,Air Gaspé
+2658,Indian Airlines
+2659,Cruzeiro
+2660,Aeroflot
+2661,Varig
+2662,Aeromexico
+2663,Aeroflot
+2664,Varig
+2665,Pan American World Airways
+2666,Ozark Air Lines
+2667,Air Hawaii
+2668,Delta Air Lines
+2669,Revilla Flying Service - Air Taxi
+2670,Aeroflot
+2671,Aviaco
+2672,Private
+2673,Aeroflot
+2674,AVIANCA
+2675,Aerovias Brasil
+2676,Military - U.S. Air Force
+2677,Trans World Airlines
+2678,Aegler Stuart Flying Service  / Private
+2679,World Airways
+2680,Wicks Flying Service - Air Taxi
+2681,JAT Yugoslav Airlines
+2682,Private Charter
+2683,Dunlap Aviation - Air Taxi
+2684,Lisa Jet Inc. - Air Taxi
+2685,Texas International Airlines
+2686,Aeronorte
+2687,Aeroflot
+2688,Aeroflot
+2689,Taxi Aéreo Cesar Aguiar
+2690,VASP
+2691,CATA
+2692,Jack N. Boswick - Air Taxi
+2693,Lineas Aéreas La Urraca
+2694,National Airlines
+2695,Pan American World Airways
+2696,Air Vietnam (South Vietnam)
+2697,Aeroflot
+2698,Churchill Falls Co.
+2699,Military - U.S. Navy
+2700,Aeroflot
+2701,Pan American World Airways
+2702,Capitol Air Service - Air Taxi
+2703,TAM (Bolivia)
+2704,Military - Vietnamese Air Force
+2705,Sobelair SA (Belgium)
+2706,Aeroflot
+2707,Executive Funds
+2708,Itavia
+2709,Servicios Aéreos Boliviano
+2710,Air East
+2711,Aeroflot
+2712,Military - Colombian Air Force
+2713,TAM (Bolivia)
+2714,Cessnyca
+2715,Aeroflot
+2716,Inland Aviation - Air Taxi
+2717,Turkish Airlines (THY)
+2718,Taos Airways - Air Taxi
+2719,Theif River Aviation - Air Taxi
+2720,Pan American World Airways
+2721,Pan American World Airways
+2722,Military - West German Air Force
+2723,North Cay Air - Air Taxi
+2724,Delta Air Lines
+2725,SAVCO
+2726,Military - Imperial Iranian Air Force
+2727,Turkish Airlines (THY)
+2728,Pathet Lao Airlines
+2729,Executive Air - Air Taxi
+2730,Sierra PacifiAirlines
+2731,Sterling Airways
+2732,Wenela Air Services
+2733,Island Air
+2734,Pan American World Airways
+2735,Aeroflot
+2736,Aeroflot
+2737,Houston Metro Airlines
+2738,Aero Taxis Equatorianos
+2739,Fragtflug
+2740,Saturn Airways
+2741,Aeroflot
+2742,Lambair
+2743,Aerolineas TAO
+2744,Cambodia Air
+2745,Alaska Helicopter - Air Taxi
+2746,Aeronorte Colombia
+2747,Air Amercia
+2748,Laurentian Air Services
+2749,Military - Canadian Air Force
+2750,Air  Mali
+2751,AVIANCA
+2752,MerriAviation - Air Taxi
+2753,Linea Aeropostal Venezolana
+2754,Military - U.S. Air Force
+2755,Military - Zairean Air Force
+2756,Garuda Indonesia Airlines
+2757,Trans World Airlines
+2758,Eastern Air Lines
+2759,Air Vietnam (South Vietnam)
+2760,Riverside Air
+2761,Frontier Flying Service - Air Taxi
+2762,Winship Air Service
+2763,North Cay Airways
+2764,Evergreen Helicopter - Air Taxi
+2765,EgyptAir
+2766,Military - U.S. Air Force
+2767,Webber Airlines -Air Taxi
+2768,Mabuhay Airways
+2769,Deming Flying Service - Air Taxi
+2770,AltusFlying Service - Air Taxi
+2771,Henry Nichols - Air Taxi
+2772,Willow Air Service - Air Taxi
+2773,Alaska International Air
+2774,Hlavka Aviation - Air Taxi
+2775,Pan ArctiOil
+2776,
+2777,Southeast Sky - Air Taxi
+2778,Orient Air System and Integrated Services
+2779,Ethiopian Airlines
+2780,Lufthansa
+2781,Alpa Servicios Aéreos
+2782,Northwest Orient Airlines
+2783,Trans World Airlines
+2784,Martinair Holland NV
+2785,Kodiak Airways
+2786,Military - Vietnamese Air Force
+2787,Aeroflot
+2788,Aerovias Venezolanas SA (Venezuela)
+2789,Harbor Airlines - Air Taxi
+2790,Tarom
+2791,Aeroflot
+2792,Air America
+2793,Richland Flying Service - Air Taxii
+2794,Military - Argentine Navy
+2795,SATENA
+2796,Golden West Airlines / Private
+2797,Channel Flying Service - Air Taxi
+2798,Malev Hungarian Airlines
+2799,Aeroflot
+2800,Turkish Airlines (THY)
+2801,Linea Aérea Nacional
+2802,Kenai Air Service - Air Taxi
+2803,Horizon Properties
+2804,Philippine Air Lines
+2805,Military - Deutsche Luftwaffe
+2806,PacifiAlaska Airlines
+2807,Aerocondor
+2808,VASP
+2809,Burlington Air - Air Taxi
+2810,Air Vietnam (South Vietnam)
+2811,Military - Argentine Air Force
+2812,Sudan Airways
+2813,Military - U.S. Air Force
+2814,Military - U.S. Air Force
+2815,Skips Air Service - Air Taxi
+2816,Gay Airways - Air Taxi
+2817,SATENA
+2818,Air Express
+2819,Foster Aviation
+2820,Military - U.S. Air Force
+2821,Philippine Air Lines
+2822,Varig
+2823,Eastern Air Lines
+2824,Hamilton Aviation
+2825,Taxi Aereo El Venado
+2826,Touraine Air Transport
+2827,Military - Chilian Air Force
+2828,Aerovias Condor
+2829,Homer Air Service - Air Taxi
+2830,Oceanaire Helicopter - Air Taxi
+2831,Aeroflot
+2832,Military - U.S. Air Force
+2833,Far Eastern Air Transport
+2834,Alia Royal Jordanian Airlines
+2835,Military - Nicaraguan Air Force
+2836,Continental Airlines
+2837,Aeroflot
+2838,Ceskoslovenske Aerolinie
+2839,Portsmouth Aviation - Air Taxi
+2840,Military - Nicaraguan Air Force
+2841,Wien Air Alaska
+2842,Interflug
+2843,Ethiopian Airlines
+2844,Garuda Indonesia Airlines
+2845,Malev Hungarian Airlines
+2846,Northern Thunderbird Air
+2847,AVIANCA
+2848,Connair
+2849,Air Taxi
+2850,TAM (Bolivia)
+2851,Inex Adria Aviopromet
+2852,Petroleum Helicopter
+2853,Quakertown Aviation - Air Taxi
+2854,Aviateca
+2855,Aeroflot
+2856,Aeroflot
+2857,Balkan Bulgarian Airlines
+2858,Military - Israel  Air Force
+2859,Private
+2860,SceniAirline - Air Taxi
+2861,Philippine Aerotransport
+2862,Star Aviation
+2863,Middle East Airlines
+2864,Aeroflot
+2865,Winship Air
+2866,Orlando Airways - Air Taxi
+2867,Philippine Aerotransport
+2868,Taxi Aereo el Venado
+2869,Green Acres - Air Taxi
+2870,Frigorifico Maniqui
+2871,TAME
+2872,CAAC
+2873,Transbrasil
+2874,Aeroflot
+2875,Falcon Airways - Air Taxi
+2876,LAC Colombia
+2877,Military - U.S. Air Force
+2878,Temsco Helicopter - Air Taxi
+2879,Mercer Airlines
+2880,Aeroflot
+2881,Antilles Air
+2882,Tarom
+2883,TAM (Bolivia)
+2884,Aeroflot
+2885,Kodiak Western Alaska Airlines
+2886,Sky Haven - Air Taxi
+2887,Cubana de Aviacion
+2888,SATENA
+2889,Alaska Airlines
+2890,North Sound Aviation
+2891,Royal American - Air Taxi
+2892,Yacimientos Petroliferos Fiscales
+2893,Chartair - Air Taxi
+2894,Petroleum Helicopter
+2895,Frontier Flying Service - Air Taxi
+2896,American Airlines
+2897,de Havilland Aircraft
+2898,Philippine Aerotransport
+2899,OlympiAirways
+2900,Military - Imperial Iranian Air Force
+2901,Aeroflot
+2902,Lab Flying Service - Air Taxi
+2903,Philippine Air Lines
+2904,Aeroflot
+2905,Air Manila
+2906,Sabah Air
+2907,Sky Chopper  - Air Taxi
+2908,Air France
+2909,Military - Burma Air Force
+2910,Reed Aviation - Air Taxi
+2911,Capitol Air Service - Air Taxi
+2912,Ceskoslovenske Aerolinie
+2913,Mamer - Shreck  - Air Taxi
+2914,Korean Airlines
+2915,Military - Spanish Air Force
+2916,SAETA
+2917,Green River Aviation - Air Taxi
+2918,Aeroperu
+2919,Military - U.S. Air Force
+2920,Military - U.S. Air Force
+2921,Air France
+2922,Military - Venezuelan Air Force
+2923,Austin Airways
+2924,Aeroflot / Aeroflot
+2925,Inex Adria Aviopromet / British Airways
+2926,Turkish Airlines (THY)
+2927,Air West Airlines Ltd.
+2928,Loma Linda University - Air Taxi
+2929,Military - U.S. Air Force
+2930,Emirates Air Transport
+2931,Cubana de Aviacion
+2932,Aero National - Air Taxi
+2933,Indian Airlines
+2934,Lloyd Aéreo Boliviano
+2935,Skyline Aviation - Air Taxi
+2936,Taxi Aereo el Venado
+2937,Nordeste Linhas Aéreas
+2938,Bali International Air Service
+2939,Inair Panama
+2940,Aeroleasing - Air Taxi
+2941,PacifiWestern Airlines
+2942,Aeroflot
+2943,Grand Canyon Air - Air Taxi
+2944,AtlantiCity Airlines
+2945,Aeroflot
+2946,EgyptAir
+2947,Valley Air Service - Air Taxi
+2948,Faucett
+2949,Jet Avia Charter
+2950,Aeroflot
+2951,Japan Air Lines
+2952,Northern Thunderbird Air Ltd.
+2953,Skyline Sweden
+2954,North Canada Air
+2955,Transportes Aéreos Itenez
+2956,Ceskoslovenské Aerolinie
+2957,Aeroflot
+2958,Survair
+2959,Alyemda
+2960,Military - Italian Air Force
+2961,Overseas National Airways
+2962,Fleming International Airways
+2963,Private
+2964,Pan American World Airways / KLM
+2965,Merpati Nusantara Airlines
+2966,Aeroflot
+2967,Southern Airways
+2968,Taxi Aereo el Venado
+2969,Military - Soviet Air Force
+2970,Aviateca
+2971,Military - Israel Air Force
+2972,LOT Polish Airlines
+2973,IAS Cargo
+2974,New  York Helicopter
+2975,Aeroflot
+2976,Intracostals - Air Taxi
+2977,Military - Brazilian Air Force
+2978,Fuerza Aérea Uruguaya
+2979,Military - U.S. Navy
+2980,Aeroflot
+2981,Military - Angolan Air Force
+2982,Ethiopian Airlines
+2983,Harold's Air Service
+2984,Military - Chilean Air Force
+2985,Military - Honduran Air Force
+2986,Gaige Aviation - Air Taxi
+2987,Private KNBC Los Angeles
+2988,LADE
+2989,Southwest Aviation - Air Taxi
+2990,Rambar Aviation - Air Taxi
+2991,Monarch Aviation
+2992,Kenai Air Service - Air Taxi
+2993,Island Airways
+2994,Transmeridian Air Cargo
+2995,Wright Air Service - Air Taxi
+2996,Servicios Aereos Nacionales Airways
+2997,Alaska Aeronautical Industries
+2998,Burma Airways
+2999,Safe Air Cargo
+3000,Military - U.S. Air Force
+3001,Malev Hungarian Airlines
+3002,Salida Flying Service - Air Taxi
+3003,Japan Air Lines
+3004,Kenmore Air  - Air Taxi
+3005,Air Logistics
+3006,L & J Company
+3007,Military - U.S. Marine Corps
+3008,El Al
+3009,Servicios Aereos Martinez Leon
+3010,TAP (Air Portugal)
+3011,Ethiopian Airlines
+3012,Munz Northern Airlines
+3013,Austral Lineas Aeras (Argentina)
+3014,Military - French Air Force
+3015,Resort Air Service - Air Taxi
+3016,Balkan Bulgarian Airlines
+3017,Malaysia Airlines
+3018,Petroleum Helicopter
+3019,Aeroflot
+3020,Military - U.S. Navy
+3021,"National Jet Services Inc.,  (Air Indiana)"
+3022,Straley Flying Service - Air Taxi
+3023,SATA
+3024,United Air Lines
+3025,Vieques Air Link
+3026,Kenn Borek Air
+3027,Aviation Charter - Air Taxi
+3028,Valley Air Service
+3029,Servicios Aereos Nacionales
+3030,Air India
+3031,Aviation Charter - Air Taxi
+3032,Henry Webber Air - Air Taxi
+3033,SADELCA
+3034,TABA
+3035,Military - Uruguayan Air Force
+3036,Columbia PacifiAirlines
+3037,PacifiWestern Airlines
+3038,Chartair - Air Taxi
+3039,Yute Air Alaska - Air Taxi
+3040,Security Air
+3041,Continental Airlines
+3042,Island Air
+3043,Nigeria Airways
+3044,LAV - Linea Aeropostal Venezolana
+3045,Hesler Noble - Air Taxi
+3046,Wyman Pilot Service - Air Taxi
+3047,Balkan Bulgarian Airlines
+3048,Lake Havasu Air
+3049,Burma Airways
+3050,Aero Clube de Volta Redonda
+3051,Air Logistics
+3052,Antilles Air
+3053,Korean Airlines
+3054,Air Taxi
+3055,South PacifiIsland Airways
+3056,LAC Colombia
+3057,Alaska Travel
+3058,National Airlines
+3059,Military - Japan Maritime Self Defense Force
+3060,Aeroflot
+3061,Gander Aviation
+3062,Air Canada
+3063,Helikopter Service
+3064,Amphibians
+3065,Aeropeca
+3066,Webber Air - Air Taxi
+3067,Air Taxi
+3068,Burma Airways
+3069,Las Vegas Airlines
+3070,Antillies Air - Air Taxi
+3071,AirWest Airlines
+3072,Air Guinee
+3073,Air Rhodesia
+3074,Air Taxi
+3075,Lineas Areas del Centro
+3076,Temesco Helicopter - Air Taxi
+3077,Military - Philippine Air Force
+3078,Viking Air Service - Air Taxi
+3079,Business Aircraft - Air Taxi
+3080,PacifiSouthwest Airlines / Private
+3081,Francisco Cruz
+3082,Military - Finish Air Force
+3083,Burma Airways
+3084,Aeroflot
+3085,Era Helicopter - Air Taxi
+3086,Solomon Islands Airlines
+3087,Aeroflot
+3088,Don Zimmerman - Air Taxi
+3089,Taxi Aéreo Kovacs
+3090,Nile Delta Air Services
+3091,Astrd Wing Aviaiton - Air Taxi
+3092,Loftleidir IcelandiAirlines
+3093,Festus Flying Service - Air Taxi
+3094,Air Guadeloupe
+3095,Military - Indian Air Force
+3096,Taxi Aereo el Venado
+3097,Tyee Airlines - Air Taxi
+3098,Corporate Air - Air Taxi
+3099,Rocky Mountain Airways
+3100,Air 70
+3101,Indian Airlines
+3102,Galesburg Aviation - Air Taxi
+3103,Chugiak Aviation - Air Taxi
+3104,Alitalia
+3105,Haïti Air Inter
+3106,United Air Lines
+3107,Nash and Tampo - Air Taxi
+3108,Aeroflot
+3109,Aeroflot
+3110,L.J. Simmons - Air Taxi
+3111,Air Algerie
+3112,Air Rouergue
+3113,Aeropol
+3114,TAM Lineas Aéreas Regional
+3115,Allegheny Airlines
+3116,Air Rhodesia
+3117,Air New Zealand
+3118,Ethiopian Airlines
+3119,Air Gabon
+3120,Air Service - Air Taxi
+3121,Universal Airways
+3122,Agee Flying Service - Air Taxi
+3123,Garuda Indonesia Airlines
+3124,Swift Aire Lines Inc.
+3125,Alia Royal Jordanian Airlines
+3126,CAAC
+3127,Aeroflot
+3128,Aeroflot
+3129,Aeroflot
+3130,Village Aviation - Air Taxi
+3131,Interflug
+3132,Quebecair
+3133,SW Air Rangers - Air Taxi
+3134,Catalina Airlines
+3135,New York Airways
+3136,SAETA
+3137,Aeroflot
+3138,American Airlines
+3139,Ambler Air Service
+3140,Sea Airmotive
+3141,Military - Mauritanian Air Force
+3142,Downeast Airlines
+3143,Military - Indian Air Force
+3144,Skystream Airlines
+3145,Air New England
+3146,Garuda Indonesia Airlines
+3147,Soldotna Air Services
+3148,Fiji Air Services
+3149,Trans National Airlines
+3150,Trans Mediterranean Airways
+3151,Prinair
+3152,Dan Air Services
+3153,Private
+3154,Aeroflot
+3155,Indian Airlines
+3156,Boise Air Service
+3157,Southern Jersey Air - Air Taxi
+3158,Bahri Aviation
+3159,Aeroflot / Aeroflot
+3160,SATENA
+3161,Aeroflot
+3162,Aeroflot
+3163,Bradley Air Services
+3164,Aeroflot
+3165,Sterling Airways
+3166,China Airlines (Taiwan)
+3167,Butler Aviation Inc.
+3168,Aero Transporti Italiani
+3169,PacifiCoastal Airlines
+3170,Military - U.S. Air Force
+3171,West Coast Air
+3172,Southeast Skyways - Air Taxi
+3173,Comair
+3174,Swissair
+3175,Spernak Airway - Air Taxi
+3176,Rhoadgs Aviation - Air Taxi
+3177,
+3178,Procurator Generale de la Republica
+3179,Western Airlines
+3180,Austin Airways
+3181,Bankair Inc. - Air Taxi
+3182,McKenzie Flying Service - Air Taxi
+3183,American Airlines
+3184,Aeroflot
+3185,Transamerica Airlines
+3186,Smithers Air Service
+3187,Pakistan International Airlines
+3188,Air New Zealand
+3189,Aerolineas La Gaviola
+3190,Evergreen Helicopter - Air Taxi
+3191,Aeroflot
+3192,CAMBA
+3193,SATENA
+3194,Fuerza Aérea del Peru
+3195,Turkish Airlines (THY)
+3196,Douglas Airways
+3197,Haïti Air Inter
+3198,Private charter
+3199,Iran National Airlines
+3200,Pelita Air Service
+3201,Military - Union of Burma Air Force
+3202,Cubana de Aviacon
+3203,Advance Airlines
+3204,Rotor Airs In- Air Taxi
+3205,Military - Indian Air Force
+3206,China Airlines (Taiwan)
+3207,LOT Polish Airlines
+3208,Military - U.S. Air Force
+3209,Eagle Commuter
+3210,VOTEC
+3211,Tomahawk Airways
+3212,VoteTaxi Aéreo
+3213,Transbrasil
+3214,Military - U.S. Air Force
+3215,Dan Air Services
+3216,Thai Airways
+3217,VoteTaxi Aéreo
+3218,Cubana de Aviacion
+3219,Transportes Aereos del Caribe
+3220,Northeast Jet
+3221,Spanish Air Force
+3222,Lloyd Aereo Boliviano
+3223,Lineas Aereas de Angola
+3224,Air Wisconsin
+3225,Aeroflot
+3226,Aero PaLease - Air Taxi
+3227,Itavia
+3228,IMSS
+3229,Aeroflot
+3230,Ryan Air Services
+3231,SceniAirlines
+3232,Air Pennsylvania - Air Taxi
+3233,Aeronaves del Peru
+3234,Yute Air Alaska - Air Taxi
+3235,Air Logistics
+3236,Tarom
+3237,Prospec
+3238,Spantax
+3239,Saudi Arabian Airlines
+3240,Military - U.S. Air Force
+3241,Saudi Arabian Airlines
+3242,Bouraq Indonesia Airlines
+3243,Military - Kuwait Air Force
+3244,Aeronorte Colombia
+3245,Florida Commuter Airlines
+3246,Military - Force Aérienne Zaïroise
+3247,Military - Royal Saudi Air Force
+3248,Military - Zairean Air Force
+3249,Flugfelag Austurlands
+3250,Military - Soviet Air Force
+3251,Tampa Air Center - Air Taxi
+3252,Fuerza Aérea Venezolana
+3253,Military - U.S. Air Force
+3254,Provincial Air Services
+3255,Korean Airlines
+3256,F.R. de la Direccion General de Ados
+3257,Central Air Services
+3258,Tanzania Aviation
+3259,Queen Airmotive - Air Taxi
+3260,Penninsula Airways - Air Taxi
+3261,Eagle Airways
+3262,Aeropesca Colombia
+3263,Cascade Airways
+3264,Orcon Inc. - Air Taxi
+3265,Military - Soviet Navy
+3266,Walker - Watts Aviation - Air Taxi
+3267,Private - Corporate
+3268,Helicopter - Air Taxi
+3269,VOTEC
+3270,Berkshire Aviation - Air Taxi
+3271,Military - U.S. Air Force
+3272,Air Chaparral - Air Taxi
+3273,Military - French Naval Aviation
+3274,Military - U.S. Air Force
+3275,LOT Polish Airlines
+3276,Galena Air Service - Air Taxi
+3277,Talair
+3278,Urcupina
+3279,Freedom International
+3280,Air US / Private
+3281,Airfast Indonesia
+3282,Military - U.S. Air Force
+3283,Austral Lineas Aeras (Argentina)
+3284,TAAG Angola Airlines
+3285,Lineas Aereas
+3286,TAME
+3287,Military - Ecuadorean Air Force
+3288,Shanair Inc. - Air Taxi
+3289,Military - Egyptian Air Force
+3290,Aeroflot
+3291,Taiwan Airlines
+3292,Taxi Aéreo el Venado
+3293,Dan Air Services
+3294,G & W Aviation
+3295,TAR
+3296,Somali Airlines
+3297,Air Taxi
+3298,Air Madagascar
+3299,Transamazonica
+3300,Aeromexico
+3301,Skagway Air Service - Air Taxi
+3302,Far Eastern Air Transport
+3303,Aeroflot / Military - Russian Air Force
+3304,Aeroflot
+3305,Taxi Aereo el Venado
+3306,Aeroflot /Military - Russian
+3307,Military - U.S. Air Force
+3308,Military - Turkish Air Force
+3309,Military - Iranian Air Force
+3310,Sky Train Air
+3311,NLM (Nederlandse Luchtvaart Maatschappij)
+3312,Oefag Flugdienst
+3313,Aerolineas Argo
+3314,Cameroon Airlines
+3315,Aeromexico
+3316,Moyer Aviation - Air Taxi
+3317,Aeroflot
+3318,Royal Nepal Airlines
+3319,Guyana Airways
+3320,Inex Adria Aviopromet (Yugoslavia)
+3321,Private - Parajump air show
+3322,Spernak Airways - Air Taxi
+3323,Hudson Air Service - Air Taxi
+3324,Bristow Helicopters
+3325,ACES Colombia
+3326,Linair Express
+3327,Sun West Airline - Air Taxi
+3328,Aeroflot
+3329,Air Taxi
+3330,Air Florida
+3331,Military - Ethiopian Air Force
+3332,World Airways
+3333,Tarom
+3334,Military - French Air Force
+3335,Military - Republiof South Korea Air Force
+3336,Military - Indian Air Force
+3337,Japan Air Lines
+3338,Trans Air Services
+3339,LAC Columbia
+3340,Pilgrim Airlines
+3341,Wideroe's Flyveselksap
+3342,British Airways
+3343,Aeroflot
+3344,Private
+3345,Military - U.S. Air Force
+3346,Garuda Indonesia Airlines
+3347,Aeropesca Colombia
+3348,Air Taxi
+3349,Military - U.S. Air Force
+3350,CAAC
+3351,Air Taxi
+3352,Okanagan Helicopters
+3353,Alyemda
+3354,Military - U.S. Air Force
+3355,Military - Royal British Navy
+3356,VASP
+3357,Pelita Air Service
+3358,Military - Republiof South Korea Air Force
+3359,VASP
+3360,TABA
+3361,Air India
+3362,Air Affaires Gabon
+3363,Aeroflot
+3364,Pan American World Airways
+3365,Philippine Air Lines
+3366,Air Taxi
+3367,Western Helicopter
+3368,Air Taxi
+3369,Air Taxi
+3370,Pan American World Airways
+3371,Burma Airways
+3372,Aeroflot / Aeroflot
+3373,Military - Nicaraguan Air Force
+3374,Inter Island Air Services
+3375,Military - U.S. Air Force
+3376,Aerolineas Condor
+3377,Cia Brasiliera de Tratores
+3378,Military - U.S. Army
+3379,Spantax
+3380,Air Taxi
+3381,Central Mountain Air Services
+3382,Air Taxi
+3383,Aeroflot
+3384,Air Taxi
+3385,Far Eastern Air Transport
+3386,Air Taxi
+3387,TAAG Angola Airlines
+3388,Aerolineas Centrales de Colombia
+3389,Air Taxi - Basco Flying Service Inc.
+3390,Pioneer Airlines
+3391,Military - Nicaraguan Air Force
+3392,Air Taxi - Tyee Airlines Inc.
+3393,Aeronor Chile
+3394,Air Taxi - Custom Air Transport Inc.
+3395,Rijnmond Air Services
+3396,Aeroflot
+3397,CAAC
+3398,RepubliAirlines
+3399,United Air Lines
+3400,Talair
+3401,Turkish Airlines (THY)
+3402,Military - U.S. Air Force
+3403,Air Taxi
+3404,Aeroleo Taxi Aereo
+3405,Bakhtar Afghan Airlines
+3406,Avensa
+3407,Air Taxi
+3408,Central Airlines
+3409,Total
+3410,Munz Northern Airlines
+3411,Air Liberia
+3412,Aeroflot
+3413,Japan Air Self-Defence Force
+3414,Military - Japan Maritime Self Defense Force
+3415,SAN Ecuador
+3416,Military - United States Navy
+3417,Military - Royal Thai Air Force
+3418,Eastern Air Lines
+3419,Garuda Indonesia Airlines
+3420,Air Canada
+3421,Military - Republiof China Air Force
+3422,Military - U.S. Navy
+3423,Air Mali
+3424,Air Taxi - Four Corners Aviation Inc.
+3425,Military - U.S. Air Force
+3426,CAAK
+3427,TAME
+3428,British Airways Helicopters
+3429,Air Canada
+3430,Bali International Air Service
+3431,Bali International Air Service
+3432,Air Taxi - Northern Air Services Inc.
+3433,Las Vegas Airlines
+3434,Transamerica Airlines
+3435,Moore's Air Charter
+3436,Aeroflot
+3437,Korean Airlines
+3438,Central Mountain Air Services
+3439,CAAC
+3440,Gulf Air
+3441,Air Taxi
+3442,Taiwan Airlines
+3443,Aeroflot
+3444,Air Taxi - Ozark Skyways Inc.
+3445,TAM Lineas Aéreas Regional
+3446,Burma Airways
+3447,Air Illinois
+3448,Pennsylvania Airlines
+3449,TAAG Angola Airlines
+3450,Austin Airways
+3451,Air Taxi
+3452,AVIANCA
+3453,Nigeria Airways
+3454,Iberia Airlines / Aviaco
+3455,Air Taxi - Island Airlines
+3456,TAMPA Colombia
+3457,Inuvik Coastal Airways
+3458,Aeroflot
+3459,Military - Royal Jordanian Air Force
+3460,Skycraft Air Transport
+3461,Balkan Bulgarian Airlines
+3462,North East Bolivian Airways
+3463,Pelita Air Service
+3464,Aeroflot
+3465,Britt Airways
+3466,Military - Ethiopian Air Force
+3467,Military - Salvadoran Air Force
+3468,Flight Safety Australia
+3469,Taxi Aéreo del Guaviare
+3470,Military - Japan Maritime Self Defense Force
+3471,Scandinavian Airlines (SAS)
+3472,Military - U.S. Air Force
+3473,Air Taxi
+3474,Aerosucre Colombia
+3475,Lloyd Aereo Boliviano
+3476,Military - U.S. Marine Corps
+3477,Frigorifico Reyes
+3478,State Airlines
+3479,Líder Táxi Aéreo
+3480,VOTEC / VOTEC
+3481,Military - Egyptian Air Force
+3482,Tierra del Fuego Province
+3483,Zantop International Airlines
+3484,Air Continental
+3485,Air Taxi - Raco Helicopters Corp.
+3486,TAM Lineas Aéreas Regional
+3487,Coval Air
+3488,Military - Philippine Air Force
+3489,Military - U.S. Air Force
+3490,Air Taxi
+3491,South PacifiIsland Airways
+3492,Air Taxi
+3493,Vieques Air Link
+3494,Bangladesh Biman
+3495,Aeroflot
+3496,Pioneer Airlines
+3497,Aviation Enterprises
+3498,Airfast Indonesia
+3499,Air Taxi - Richards Aviation Inc.
+3500,Wings West Airlines / Private
+3501,Cameroon Airlines
+3502,Talair
+3503,Provincetown - Boston Airlines
+3504,MMM Aero Services
+3505,APRL
+3506,AECA Cargo
+3507,Military - Russian Air Force
+3508,Air Niagara
+3509,Air Taxi - Desert Flying Service
+3510,Nahanni Air Services
+3511,Aeroflot
+3512,Labradore Airways
+3513,Mililtary - Soviet Air Force
+3514,Military - Russian Air Force
+3515,Village Airways
+3516,Euroair
+3517,TAME
+3518,Aeroflot
+3519,Provincetown - Boston Airlines
+3520,Military - Indian Air Force
+3521,Air Taxi - Delaware Aviation LLC
+3522,Fuerza Aérea del Peru
+3523,Royal Nepal Airlines
+3524,Aeroflot
+3525,Eastern Air Lines
+3526,TPI International Airways
+3527,CAAC
+3528,Cubana de Aviacion
+3529,Air Taxi
+3530,Galaxy Airlines
+3531,Military - U.S. Air Force
+3532,AIRES Colombia
+3533,Aerolineas Centrales de Colombia
+3534,Air Taxi - Air Trends Inc.
+3535,Aeroflot
+3536,North PacifiAirlines
+3537,Air Taxi - Oklahoma Airways Inc.
+3538,Military - Russian Air Force
+3539,Air Taxi - Mercy Flights Inc.
+3540,Dirgantara Air Services
+3541,Iberia Airlines
+3542,China Airlines (Taiwan)
+3543,Air Mali
+3544,Military - U.S. Air Force
+3545,Military - U.S. Air Force
+3546,SATENA
+3547,YPF
+3548,Air Taxi - Eidoarie Inc.
+3549,Thai Airways
+3550,American Airlines
+3551,Air Taxi - Monument Valley Air Service
+3552,Aeronica
+3553,Carga Aereo Transportada
+3554,Aeroflot / Soviet Air Force
+3555,Military - U.S. Marine Corps
+3556,Empresa Nacional de Transp.  Trabalho Aereo
+3557,Air Taxi
+3558,Acme Air
+3559,Avensa
+3560,General Aviation Inc.
+3561,Trans World Airlines
+3562,TABA
+3563,Air India
+3564,Air Taxi
+3565,Aeroflot
+3566,Air Ohio - Air Taxi
+3567,Fuerza Aérea Colombiana
+3568,Delta Air Lines
+3569,Japan Air Lines
+3570,Merpati Nusantara Airlines
+3571,Alyemda Airlines
+3572,Air Taxi - Jet Alaska
+3573,British Airtours
+3574,Bar Harbor Airlines
+3575,Military - U.S. Air Force
+3576,Douglas Airways
+3577,Ariana Afghan Airlines
+3578,Midwest Express
+3579,Military - Soviet Air Force
+3580,Air Taxi - Henson Airlines
+3581,MAP
+3582,Air Carriers Express Services Inc
+3583,Air Albatross
+3584,Nordeste Linhas Aéreas
+3585,Pel Air
+3586,Sabeni
+3587,Aeroflot
+3588,Mountain Air Cargo
+3589,Burma Airways
+3590,Jet Alaska
+3591,Air Taxi- Hermans Air Inc.
+3592,Military - U.S. Air Force
+3593,Air Taxi
+3594,Military - Indonesian Air Force
+3595,EgyptAir
+3596,Military - Angolan Air Force
+3597,Arrow Airways
+3598,Military - Royal Nepalese Air Force
+3599,Private
+3600,Aerovias de Guatemala SA
+3601,Air Taxi
+3602,VASP
+3603,Aerocalifornia
+3604,GLM Aviation
+3605,China Airlines (Taiwan)
+3606,Aeroflot
+3607,Taxair
+3608,Simmons Airlines
+3609,Merpati Nusantara Airlines
+3610,Goose Bay Air Services
+3611,Ministerstvo Obshchestvo Mashinostroyeniya
+3612,Military - French Air Force
+3613,Military - Mozambique Air Force
+3614,Mexicana
+3615,Trans World Airlines
+3616,Military - U.S. Air Force
+3617,ACES Colombia
+3618,Military - El Salvador Air Force
+3619,Military - Republiof China Air Force
+3620,Air Lanka
+3621,Aeroflot
+3622,Air Taxi - Islip Airco Inc.
+3623,Military - French Naval Aviation
+3624,Military - Armée de l'Air Malgache
+3625,EgyptAir
+3626,Loganair
+3627,Military - U.S. Air Force
+3628,Grand Canyon Airlines / Helitech
+3629,Aeroflot
+3630,Aeroflot
+3631,Military - Zimbabwe Air Force
+3632,Air Taxi
+3633,Leeward Islands Air Transport
+3634,Military - Honduran Air Force
+3635,Sudan Airways
+3636,Air Taxi
+3637,Denver Air Center
+3638,Southwest Airlift
+3639,Aeromexico / Private
+3640,Peninsula Air Services
+3641,Pan American World Airways
+3642,Military - U.S. Air Force
+3643,Kondair
+3644,AtlantiSoutheast Airlines
+3645,East Indonesia Air Taxi
+3646,Southern Air Transport
+3647,Aeroflot
+3648,Iran Air
+3649,Military - Chilian Navy
+3650,Air Taxi - New London Flying Services Inc.
+3651,Government of Mozambique
+3652,Aeroflot
+3653,Private - WNBC
+3654,Pakistan International Airlines
+3655,Military - Nicaraguan Air Force
+3656,Military - Iranian Air Force
+3657,British International Helicopters
+3658,Military - Afghan Republican Air Force
+3659,Aeroflot
+3660,CAAC
+3661,Iraqi Airways
+3662,Sunflower Airlines
+3663,Military - Spanish Air Force.
+3664,Varig
+3665,Trillium Air
+3666,Military - Ethiopian Air Force
+3667,Skywest Airlines / Private.
+3668,California Air Charter
+3669,Air Reconnaissance Unit of Liberia
+3670,Aero France
+3671,Talair
+3672,Military - Afghan Republican Air Force
+3673,Skyworld Airlines (Ports of Call Inc.)
+3674,Northwest Airlink
+3675,Aeroflot
+3676,Military - U.S. Air Force
+3677,California Air National Guard
+3678,Connie Kalitta Services
+3679,Military - Afghan Republican Air Force
+3680,Air Taxi
+3681,Scanex Air
+3682,Garuda Indonesia Airlines
+3683,Burlington Air Express
+3684,Air-Lift Commuter
+3685,Sasco Air Lines
+3686,Aeroflot
+3687,American Eagle
+3688,LOT Polish Airlines
+3689,Air Manitoba
+3690,Air Taxi
+3691,YPFB Transportes Aereos
+3692,Merpati Nusantara Airlines
+3693,Missionary Aviation Fellowship
+3694,Travel Air Flug
+3695,Rutaca
+3696,Bakhtar Afghan Airlines
+3697,Military - Peruvian Air Force
+3698,Aeroflot
+3699,Burma Airways
+3700,Philippine Air Lines
+3701,Military - U.S. Air Force
+3702,Air Afrique
+3703,Belize Air International Ltd.
+3704,DHL
+3705,LAN
+3706,China Southwest Airlines
+3707,Northwest Airlines
+3708,Oxaero Ltd.
+3709,Thai Airways
+3710,Military - Brazilian Air Force
+3711,Aeroflot
+3712,EgyptAir
+3713,Air Taxi
+3714,Burma Airways
+3715,Aeroejecutivos Colombia
+3716,Aero Transporti Italiani
+3717,MAP
+3718,Air Taxi - Flying School of the Cascades Inc.
+3719,Air Malawi
+3720,Kenn Borek Air
+3721,Continental Airlines
+3722,Ryan Air Services
+3723,Flynn's Ferry Service
+3724,Taiwan Airlines
+3725,Trans Colorado AL / Continental Express
+3726,South African Airways
+3727,Korean Airlines
+3728,Cooper Skybird Air Charters
+3729,PacifiSouthwest Airlines
+3730,Military - Peruvian Naval Aviation
+3731,Talair
+3732,Philippine Air Lines
+3733,Military - Brazilian Air Force
+3734,Air Littoral
+3735,Air Taxi - Petroleum Helicopters Inc.
+3736,Air Taxi
+3737,Southcentral Air
+3738,Panorama Air Tour
+3739,Merpati Nasantara Airlines
+3740,Condor Flugdienst
+3741,Phoenix Air
+3742,ETA - Empresa Transportes Aéreos
+3743,Aeroflot
+3744,Aeroflot
+3745,Fuerza Aérea Panamena
+3746,Air Taxi - Minuteman Aviation Inc.
+3747,NFD - Nurnberger Flugdienst
+3748,AV Air / American Eagle
+3749,Aeroflot
+3750,Talia Airways
+3751,Commercial Airways (Comair)
+3752,Transport Arien Transregional
+3753,Military - Ecuadorian Air Force
+3754,Military - U.S. Army
+3755,AVIANCA
+3756,Arax Airlines
+3757,Kuwait Airways
+3758,Military - Afghan Republican Air Force
+3759,United Airways
+3760,Chaillotine Air Service
+3761,Aeroflot
+3762,Military - Cuban Air Force
+3763,Northeast Jet
+3764,Shanxi Airlines
+3765,Aloha Airlines
+3766,Wideroe's Flyveselksap
+3767,Jay Hawk Air - Air Taxi
+3768,TACA
+3769,Aeronica
+3770,Starair
+3771,North American Sabreliner 40
+3772,Military - U.S. Air Force
+3773,Austral Lineas Aeras (Argentina)
+3774,Military - Mozambique Air Force
+3775,Air France
+3776,Iran Air
+3777,Lineas Aéreas Suramericanas
+3778,TACA
+3779,Angola Air Charter
+3780,Air Taxi - Temesco Helicopters Inc.
+3781,Balkan Bulgarian Airlines
+3782,Geoterrex
+3783,Military - Afghan Republican Air Force
+3784,Military - Pakistan Air Force
+3785,MD Air Services
+3786,Kinair Cargo
+3787,Aeroflot
+3788,Military - Italian Air Force
+3789,CAAC
+3790,Transporte Aereo Federal
+3791,Aerocaribe
+3792,Delta Air Lines
+3793,Wrangell Air Service
+3794,Hang Khong (Vietnam)
+3795,TAME Ecuador
+3796,Bradley Air Services
+3797,Ethiopian Airlines
+3798,Military - Afghan Republican Air Force
+3799,Military - U.S. Air Force
+3800,Air Taxi - Northern Arizona Aircraft Inc.
+3801,Uganda Airlines
+3802,Vayudoot
+3803,Indian Airlines
+3804,Aero Peru
+3805,LOT Polish Airlines
+3806,Air Taxi - TAJ FBO Co.
+3807,Wasa Wings
+3808,JC Air
+3809,Air Littoral
+3810,Aero Club Libya
+3811,Aeroflot
+3812,T & G Aviation
+3813,Military - Afghan Republican Air Force
+3814,Military - Russian Air Force / Military - Russian Air Force
+3815,GAS Air
+3816,Broughton Air Servces
+3817,Pan American World Airways
+3818,Mid PacifiAir
+3819,British Midland Airways
+3820,Bradley Air Services
+3821,Aerolineas La Paz
+3822,Military - Canadian Army
+3823,Military - U.S. Air Force
+3824,Burma Airways
+3825,RAM
+3826,Independent Air Inc.
+3827,Tarom
+3828,Flying Tiger Line
+3829,Air Taxi - Las Vegas Flyers Inc.
+3830,United Air Lines
+3831,Albancion Circulo
+3832,Transfair
+3833,Air Ontario
+3834,Aero Condor
+3835,Evergreen International Airlines
+3836,Military - U.S. Marine Corps
+3837,Transbrasil
+3838,Europe Aero Service EAS
+3839,SATENA
+3840,Aerosucre Colombia
+3841,Aero Cozumel
+3842,Southern Express
+3843,Holmstoem Air
+3844,Aero Asahi
+3845,Surinam Airways
+3846,Aerotaca
+3847,SceniAir Tours
+3848,Interflug
+3849,Ariana Afghan Airlines
+3850,Fuerza Aérea del Peru
+3851,Formosa Airlines
+3852,Cameroon Airlines
+3853,Somali Airlines
+3854,Calair
+3855,Air Taxi - Centre Airlines Inc.
+3856,United Air Lines
+3857,Aeroflot
+3858,Talair
+3859,Philippine Air Lines
+3860,Military - Afghan Republican Air Force
+3861,Military - Angolan Air Force
+3862,Korean Airlines
+3863,Universal Airlines
+3864,Air Freight New Zealand
+3865,OlympiAviation
+3866,RRC Air Service
+3867,Aspring Air
+3868,Private
+3869,China Eastern Airlines
+3870,Air Taxi
+3871,Pakistan International Airlines
+3872,Bay Land Aviation
+3873,Cubana de Aviacion
+3874,Varig
+3875,Partnair
+3876,Merpati Nusantara Airlines
+3877,Wehite Cap Aviation
+3878,Union des Transportes Aeriens
+3879,Boeing KC-135E
+3880,USAir
+3881,Military - Afghan Republican Air Force
+3882,Military - Afghan Republican Air Force
+3883,Vayudoot
+3884,Skylink Airlines
+3885,Nile Safaris Aviation
+3886,Grand Canyon Airlines
+3887,MAP
+3888,Military - U.S. Air Force
+3889,Winchester Air
+3890,TAUSA
+3891,Air Taxi - Paramount Aviation Corp.
+3892,Aeroflot
+3893,TAN
+3894,China Airlines (Taiwan)
+3895,Military - Soviet Air Force
+3896,Aloha Island Air
+3897,Weasua Airtransport
+3898,Military - Royal Lesotho Defence Force
+3899,Air Express
+3900,Aeroflot
+3901,Military - People's Army/ Military - Peoples Air Force
+3902,Korean Airlines
+3903,AVIANCA
+3904,Tepper Aviation
+3905,Lineas Aéreas Cave
+3906,New England Airlines
+3907,Military - U.S. Army
+3908,Military - Bolivian Air Force
+3909,Helicopteros Nacionales de Colombia
+3910,United Express
+3911,Tarom
+3912,Air Fiordland
+3913,Pelita Air Service
+3914,Aeroflot
+3915,SANSA
+3916,Federal Express
+3917,Aeroflite Services
+3918,Military - Venezuelan Navy
+3919,AVIANCA
+3920,Airfast Services
+3921,Military - Congolese Air Force
+3922,Airborne Express
+3923,Wiggins Airways
+3924,TAM (Brazil)
+3925,Indian Airlines
+3926,Military - Zambian Air Force
+3927,Federal Express
+3928,Military - Indian Air Force
+3929,MIAT - Mongolian Airlines
+3930,Sinquanon Management - Air Taxi
+3931,Helicsa
+3932,TAN Honduras
+3933,Cubana de Aviacion
+3934,Aeroflot
+3935,Military - Angolan Air Force
+3936,Air Taxi - Transamerica
+3937,Wideroe's Flyveselksap
+3938,Aeroperlas
+3939,Military - Zairean Air Force
+3940,MATS - Manila Aero Transport System
+3941,Frontier Air
+3942,Military - Royal Air Force
+3943,Aerial Transit Company
+3944,Avicsa
+3945,Philippine Air Lines
+3946,Air North Queensland
+3947,Military - Luftwaffe
+3948,Aerolift Philippines
+3949,Ptarmigan Airways
+3950,TABA
+3951,British Airways
+3952,Air Taxi - Trail Lake Flying Service Inc.
+3953,Air Taxi - Aero West Aviation Inc.
+3954,Douglas Airways
+3955,Eagle Air
+3956,Military - Afghan Republican Air Force
+3957,Servicio Expresso Nacional
+3958,Aeroflot
+3959,Military - Afghan Republican Air Force
+3960,Military - Republiof China Air Force
+3961,Private - Omniflight Helicopters
+3962,Military - Russian Air Force
+3963,Military - U.S. Air Force
+3964,Frontier Flying Service
+3965,Faucett
+3966,Nuna Air
+3967,Aeroflot
+3968,SUDENE
+3969,HiTech Helicopters
+3970,Iraqi Airways
+3971,China Southwest Airlines / Xiamen Airlines
+3972,Eastern Air Lines
+3973,BAFIN
+3974,Cubana de Aviacion
+3975,MAP - Ministerstvo Aviatsionnoi Promyshlennosti
+3976,Alitalia
+3977,SATENA
+3978,Aeroflot
+3979,Ryan International Airlines
+3980,Bangkok Airways
+3981,Eitos
+3982,Northwest Airlines/ Northwest Airlines
+3983,Sudania Air Cargo
+3984,Pelita Air Service
+3985,MarkAir Commuter
+3986,Military - Venezuelan Navy
+3987,Belair - Air Taxi
+3988,Merpati Nusantara Airlines
+3989,Lockheed AC-130H Hercules
+3990,USAir / Skywest Airlilnes
+3991,Military - HelleniAir Force
+3992,Macon Horizons - Air Taxi
+3993,Air Taxi - Richmor Aviation
+3994,Military - Ecuadorean Air Force
+3995,LAN
+3996,United Air Lines
+3997,Linea Aeropostal Venezolana
+3998,Luft-Taxi Emsland
+3999,Duncan Aircraft Sales
+4000,Transafrik
+4001,Conesul Taxi Aéreo
+4002,Broward Aviation Services - Air Taxi
+4003,Military - Royal Saudi Air Force
+4004,Military - U.S. Navy / Military -  U.S. Navy
+4005,Uzbek Civil Aviation Administration
+4006,Military - Indian Air Force
+4007,TropiAir - Air Taxi
+4008,Central Mountain Air Services
+4009,Private
+4010,AtlantiSoutheast Airlines
+4011,Air Tahiti
+4012,Nile Safaris Aviation
+4013,Merpati Nusantara Airlines
+4014,Air Taxi - Air Grand Canyon Inc.
+4015,ADES Colombia
+4016,Aeroflot
+4017,Metro Cargo
+4018,Lauda Air
+4019,Agape Flight Inc.
+4020,Carib Air Transport
+4021,Aerosucre Colombia
+4022,Aeroflot
+4023,Okada Air
+4024,Helicol Colombia
+4025,Aerochasqui
+4026,L'Express Airlines
+4027,Nationair (chartered by Nigeria Airways)
+4028,Solomon Islands Airlines
+4029,Jetstream Inc.
+4030,Air Taxi -Wilderness Aviation Inc.
+4031,Vanair
+4032,Avalki Air
+4033,Tarom
+4034,Air Taxi - Haines Airways Inc.
+4035,Transports Aériens de la Guinee-Bissau
+4036,Indian Airlines
+4037,Temsco Airlines
+4038,Air Taxi - Bohemia Inc.
+4039,Airtech Rajawaldi Udara
+4040,Dirgantara Air Services
+4041,Continental Express
+4042,Aeroflot
+4043,Lineas Aéreas Colombianas
+4044,Ethiopian Airlines
+4045,Canair Cargo
+4046,Aeroflot
+4047,Aeroflot
+4048,CORAL Colombia
+4049,Military - Indonesian Air Force
+4050,Deraya Air Taxi
+4051,EDELCA
+4052,Bali International Air Service
+4053,Corporate Mobility Inc. - Private
+4054,Military - Royal Canadian Air Force
+4055,Military - Azerbaijan Air Force
+4056,Aeroflot
+4057,Nordeste Linhas Aereas
+4058,Baron Aviation
+4059,Aeroflot
+4060,Military - Soviet Air Force
+4061,Air Taxi - Airis Helicopters Inc.
+4062,Azerbaijani Airlines
+4063,STASA
+4064,Tartarstan Airlines
+4065,Military - Força Aérea Brasileira
+4066,Las Vegas Airlines
+4067,Bruno Air
+4068,ClassiWings
+4069,Scandinavian Airlines (SAS)
+4070,Eagle Aviation
+4071,China Airlines (Taiwan)
+4072,Commutair
+4073,Air Taxi - Air Vegas Inc.
+4074,Air Inter
+4075,Air Rainbow
+4076,Military - Azerbaijan Air Force
+4077,Nordeste Linhas Aéreas
+4078,Military - U.S. Air Force
+4079,Gambcrest
+4080,ATI
+4081,Aerolineas Argentinas
+4082,Frigorifico Santa Rita
+4083,Lina Congo
+4084,CC Air
+4085,USAir
+4086,Aeroflot
+4087,Golden Star Air Cargo
+4088,Kamchatavia
+4089,Air Bissau
+4090,Taiwan Airlines
+4091,Talair
+4092,Military - Kenyan Air Force
+4093,Air Taxi - Basco Flying Service Inc.
+4094,Perris Valley Aviation
+4095,SceniAir Tours
+4096,Saha Airline Services
+4097,Military - U.S. Air Force
+4098,COPA (Panama)
+4099,American Eagle
+4100,GP Express Airlines
+4101,Jet Charter Group
+4102,Air taxi
+4103,Adventure Airlines
+4104,VASP
+4105,Krasnoyarskavia
+4106,Caribbean Air Carrier - Air Taxi
+4107,Military - Sri Lanka Air Force
+4108,ArctiCircle Air Service
+4109,Military - Russian Air Force
+4110,Military - Unified Yemen Air Force
+4111,Georgian Air
+4112,Mandala Airlines
+4113,Volga-Dnepr Airlines
+4114,Aero Eslava
+4115,Crasa - Air Taxi
+4116,Air Taxi - Western Helicopter Inc.
+4117,Pakistan International Airlines
+4118,Trans World Airlines
+4119,Thai Airways
+4120,China General Aviation Corporation
+4121,Servicios Aereos Santa Ana
+4122,Lone Star Airlines
+4123,Aeroflot
+4124,NewCal Aviation
+4125,Military - Salvadorian Air Force
+4126,Military - Peruvian Air Force - TANS
+4127,Professional Aviation Services
+4128,EXA Inc.
+4129,Expresso Aéreo
+4130,Kamchatavia
+4131,Air Taxi - Hawaii Helicopters Inc.
+4132,Aero Ejecutivos
+4133,Avesca Colombia
+4134,Yakutavia
+4135,Military - Federal Nigerian Air Force
+4136,El Al
+4137,Miltiary - U.S. Airforce
+4138,Wuhan Airlines
+4139,Kiev Production Association
+4140,Merpati Nusantara Airlines
+4141,Syktyvkar Avia
+4142,Military - Peruvian Air Force
+4143,Aeroflot
+4144,Air Taxi - Alpine Aviation
+4145,Air Taxi - Baker Aviation Inc.
+4146,Military - Russian Air Force
+4147,Military - Indian Air Force
+4148,Vietnam Airlines
+4149,Aerocaribbean - Charter
+4150,Air Taxi - Wilderness Aviation Inc.
+4151,China Southern Airlines
+4152,Military - U.S. Air Force / Military - U.S. Air Force
+4153,Aero Sudpacifico
+4154,Scibe Airlift Cargo Zaire
+4155,Martinair Holland NV
+4156,Libya Arab Airlines / Military -  Libya Air Force
+4157,Air Taxi - South Coast Helicopters Inc.
+4158,Lufthansa Cityline
+4159,Bouraq Indonesia Airlines
+4160,Titan Airways
+4161,Central Mountain Air Services
+4162,Trans Service Airlift
+4163,Pan Malaysian Air Transport
+4164,Iran Air Tours  /  Military - Iranian Air Force
+4165,Military - Afghan Republican Air Force
+4166,Cargo Three Panama
+4167,Formosa Airlines
+4168,Palair Macedonian
+4169,Air Taxi - Guinn Flying Service
+4170,West Aviation
+4171,Oeste Linhas Aereas
+4172,Japan Air Lines
+4173,Private
+4174,Air Taxi - Sea PacifiInc.
+4175,Linea Aeropostal Venezolana
+4176,China Eastern Airlines
+4177,Private
+4178,MIAT - Mongolian Airlines
+4179,Indian Airlines
+4180,Military - Afghan Republican Air Force
+4181,Military - Zambian Air Force
+4182,GP Express Airlines
+4183,Fiji Air
+4184,Carga del Caribe
+4185,SAM Colombia
+4186,Aerotaca
+4187,Sasco Air Lines
+4188,Southwest Air
+4189,Merpati Nasantara Airlines
+4190,Tajikistan Airlines
+4191,Merpati Nusantara Airlines
+4192,Military - Georgian Air Force
+4193,Hyannis Air Service - Air Taxi
+4194,Private
+4195,China Northwest Airlines
+4196,Asiana Airlines
+4197,Hornbill Airways
+4198,Everest Air
+4199,Air Taxi - Air Medical Leasing
+4200,American International Airways
+4201,Sakha Airlines
+4202,Tajikistan Airlines
+4203,Lufthansa
+4204,Transair Georgia Airlines
+4205,Transair Georgia Airlines
+4206,Transair Georgia Airlines
+4207,Military - Georgian Air Force
+4208,Hibiscus Air
+4209,China Eastern Airlines
+4210,Wideroe's Flyveselksap
+4211,Roadrunner Airlines
+4212,Air Manitoba
+4213,China Northern Airlines
+4214,Magistralnye Avialinii
+4215,Aviaimpex (Macedonia)
+4216,Aerovias de Guatemala SA
+4217,Express Airlines - Northwest Airlink
+4218,ArctiWings & Rotors
+4219,Air Senegal / Gambia Airways
+4220,Lao Aviation
+4221,Military - Philippine Air Force
+4222,Air Taxi - Martin Aviation LP
+4223,Kuban Airlines
+4224,Baikal Air
+4225,Seaview Aviation
+4226,Kimura International
+4227,AtlantiCoast Airlines (United Express)
+4228,Scibe Airlift Cargo Zaire
+4229,North Western Air Transport
+4230,Expresso Aéreo
+4231,British World Airways
+4232,Continental Airlines
+4233,Sahara
+4234,Jetcraft
+4235,Military - U.S. Air Force
+4236,Military - Iranian Air Force
+4237,Salair
+4238,Chalk's International Airlines
+4239,Aurukun Air Services
+4240,Orion - Air Taxi
+4241,Military - Royal Air Force
+4242,Aeroflot Russian International Airways
+4243,Military - U.S. Air Force / Military U.S. Air Force
+4244,Air Taxi - El Aero Services Inc.
+4245,KLM Cityhopper
+4246,TAME
+4247,Rwanda Government
+4248,Military - U.S. Army / Military U.S. Army
+4249,Dirgantara Air Services
+4250,China Airlines (Taiwan)
+4251,Action Airlines
+4252,Lineas Aereas de los Libertadores
+4253,Rico Taxi Aero
+4254,Arall
+4255,Transoriente Colombia
+4256,Air Taxi - Uyak Air Services Inc.
+4257,China Northwest Airlines
+4258,Aerolineas Cuahonte
+4259,TAESA
+4260,Merpati Nusantara Airlines
+4261,Air Taxi - Sun Western Flyers Inc.
+4262,Air Ivorie
+4263,Military - Dostum-Galboddin Militia
+4264,Airbus Industrie
+4265,Air Mauritanie
+4266,USAir
+4267,Air Taxi - Peninsula Airways
+4268,Air Taxi - Papillion Helicopters Ltd.
+4269,Air Martinique
+4270,Sankuru Air Service
+4271,Alas Chiricanas
+4272,Airfast Services
+4273,Military - Russian Air Force
+4274,Korean Airlines
+4275,Air Taxi - Talon Air Services Inc.
+4276,Air Taxi - National Helicopters
+4277,Air Taxi - Lake Clark Air Inc.
+4278,Royal Air Maroc
+4279,USAir
+4280,Aerocontroctors - Charter
+4281,PacifiCoastal Airlines
+4282,Oriental Airlines
+4283,Heavylift Cargo Airlines
+4284,Cheremshanka Airlines
+4285,TAM Paraguay
+4286,Radeair
+4287,Arsenyev Aviation Production Association
+4288,SL Aviation Services
+4289,SELVA
+4290,Iran Asseman Airlines
+4291,Military - Brazilian Air Force
+4292,Military - Angolan Air Force
+4293,Yakutavia
+4294,Aeronica
+4295,American Eagle
+4296,Transportes Aereos Pegaso
+4297,Trigana Air Service
+4298,SA Amazonica
+4299,Ameriflight
+4300,Southwest Air
+4301,Trans World Airlines / Private
+4302,Military - Angolan Air Force
+4303,Philippine Air Lines
+4304,Air Taxi - Ryan Air Service
+4305,American Eagle
+4306,Servivensa
+4307,Missionary Aviation Fellowship
+4308,Phoenix Aviation
+4309,Air France
+4310,Turkish Airlines (THY)
+4311,Military - Iranian Air Force
+4312,Merpati Nusantara Airlines
+4313,Intercontinental de Aviacion
+4314,Empire Airlines
+4315,Canada Jet Charters
+4316,West Air
+4317,Air Taxi - Coastal Airways Inc.
+4318,Air Taxi - Wolfe Air Aviation Ltd.
+4319,Royal Nepal Airlines
+4320,Abakan Airlines
+4321,Leadair - Charter
+4322,Transasia Airways
+4323,Las Vegas Airlines
+4324,ATI
+4325,Aeroflot
+4326,Union Flights
+4327,Kiwi West Aviation
+4328,Transporturile Aeriene Romane (TAROM)
+4329,Military - U.S. Air Force
+4330,Bristow Helicopters
+4331,IAI 1124 Westwind
+4332,Military - Sri Lanka Air Force
+4333,Bearskin Airlines / Air Sandy
+4334,American Jet
+4335,ADES Colombia
+4336,Military - U.S. Air Force
+4337,Knight Air
+4338,LACOL
+4339,Senegalair
+4340,ValuJet
+4341,Ansett New Zealand
+4342,Volga Air
+4343,Aeroflot
+4344,Military - Angolan Air Force
+4345,Harka Air Services
+4346,Salair
+4347,Air Taxi - Island Air Service
+4348,Garamut Aviation
+4349,Air Taxi - Lab Flying Service Inc.
+4350,Milne Bay Air
+4351,Merpati Nusantara Airlines
+4352,Military - Madagascar Air Force
+4353,Transniugini Airways
+4354,Aero Air
+4355,Aviateca
+4356,Bourag Indonesia Airlines
+4357,AIRES Colombia
+4358,AtlantiSoutheast Airlines
+4359,North Star Air Cargo
+4360,Military - Royal Air Force
+4361,Adventure Airlines
+4362,SAETA
+4363,Ariana Afghan Airlines
+4364,Military - Sri Lanka Air Force
+4365,Bimini Air Charter Inc.
+4366,Malaysia Airlines
+4367,Tamair
+4368,MIAT - Mongolian Airlines
+4369,Military - U.S. Air Force
+4370,Norilsk Flight Company
+4371,Western Straits Air
+4372,Sabang Merauke Raya Air Charter
+4373,Kirghizia Aba Zaoldoru
+4374,Air Taxi - Durango Air Service
+4375,Islands Nationair
+4376,TACSA
+4377,Military - Argentine Air Force
+4378,Nigeria Airways
+4379,Military - Sri Lanka Air Force
+4380,Sabah Air
+4381,Azerbaijan Airlines
+4382,Cameroon Airlines
+4383,Azerbaijani Airlines
+4384,Far East Aviation
+4385,Air St. Martin
+4386,Romanian Banat Air
+4387,Trans Service Airlift
+4388,American Airlines
+4389,Island Airways
+4390,Akhal Air
+4391,African Air
+4392,Mustique Airways
+4393,Military - Nigerian Air Force
+4394,Military - Sri Lanka Air Force
+4395,Soundsair
+4396,Lineas Aereas del Caribe
+4397,Business Air Connection
+4398,"Alas Nacionales, leased from Birgen Air"
+4399,Aérotaxi Cachanilla
+4400,Military - Taliban Militia
+4401,Hati Express
+4402,AVCOM
+4403,Private Wings
+4404,Military - Sudanese Air Force
+4405,Aero Tropical
+4406,Compania de Aviacion Faucett SA (Peru)
+4407,Madrid Taxi Aéreo - Charter
+4408,Military - Peruvian Army Aviation
+4409,Avia Air Aruba
+4410,Key West Sea Plane Service - Air Taxi
+4411,Military - U.S. Air Force
+4412,Krasnoyarskie Avialinii
+4413,Formosa Airlines
+4414,Private
+4415,Federal Airlines
+4416,Buffalo Narrows Airways
+4417,Aeroservicios Empresariales de Durango
+4418,Milne Bay Air
+4419,ValuJet
+4420,Loganair
+4421,Hoseba
+4422,Iran Air
+4423,Military - Australian Army Aviation
+4424,Garuda Indonesia Airlines
+4425,China Flying Dragon Aviation (Feilong Airlines)
+4426,Delta Air Lines
+4427,Milne Bay Air
+4428,Archana Airlines
+4429,Military - Belgian Air Force
+4430,Trans World Airlines
+4431,Aerolatino (Aerocaribe)
+4432,Northern Air Cargo
+4433,Myanmar Airways
+4434,First Air
+4435,Air North
+4436,Military - U.S. Air Force
+4437,Harbour Air
+4438,Spair Air Transport
+4439,Vnokovo Airlines
+4440,Helisul Taxi Aéreo
+4441,Air Taxi - Stearns Air Alaska
+4442,Dutch Dakota Association
+4443,Aeroperu
+4444,Malu Aviation
+4445,Savanair
+4446,Aeroflot
+4447,Air Taxi - Seaside Air Service
+4448,Telford Aviation
+4449,Million Air
+4450,Tyumen Aviatrans
+4451,TAM (Brazil)
+4452,Transported Areos Profesionales - TAPSA
+4453,Jetcom S.A.
+4454,ALADA
+4455,Aviation Development Corporation
+4456,Saudi Arabian Airlines / Kazastan Airlines
+4457,Kismayo Airlines
+4458,Komi Avia
+4459,United Express  / Private
+4460,Military - U.S. Air Force
+4461,Ethiopian Airlines
+4462,ArctiTransportation Services
+4463,Military - Russian Air Force
+4464,ACES Colombia
+4465,Dirgantara Air Services
+4466,Emery Worldwide
+4467,Military - Russian Air Force
+4468,SELVA
+4469,Airborne Express
+4470,Military - Indian Air Force
+4471,Aircraft Charter Group Inc
+4472,Tar Heel Aviation
+4473,Polynesian Airlines
+4474,Comair
+4475,Southcentral Air
+4476,Skypower Express Airways
+4477,Air Senegal
+4478,Force Area Populaire de Angola
+4479,Military - Israel Air Force /Military -  Israel Air Force
+4480,Varig
+4481,Transpolar
+4482,Air Georgian
+4483,Air Pereira
+4484,Military - Iranian Air Force
+4485,Stavropol Airlines
+4486,Military - U.S. Air Force
+4487,Custom Air Service
+4488,Hageland Aviation Services
+4489,TAAG Angola Airlines
+4490,Azerbaijan Airlines
+4491,Military - Niger Air Force
+4492,Merpati Nusantara Airlines
+4493,Military - Afghan Republican Air Force
+4494,China Southern Airlines
+4495,Bazair
+4496,MIAT - Mongolian Airlines
+4497,Elbee Airlines
+4498,Air Taxi
+4499,Military - Colombian Army
+4500,TAM (Brazil)
+4501,Cubana de Aviacion
+4502,Haines Airways - Air Taxi
+4503,Sempati Air
+4504,Goroka Air Services
+4505,Singapore Airlines
+4506,ADC Airlines
+4507,Air Littoral
+4508,Korean Airlines
+4509,Fine Air
+4510,Formosa Airlines
+4511,Private
+4512,Air taxi
+4513,Air taxi - TAM
+4514,SATENA
+4515,Vietnam Airlines
+4516,Borneo Airways
+4517,TMK Air Commuter
+4518,Military - Luftwaffe / Military - USAF
+4519,Garuda Indonesia Airlines
+4520,SceniAirlines
+4521,Naysa Aerotaxis
+4522,Austral Lineas Aeras (Argentina)
+4523,Military - Republiof China Air Force
+4524,Private
+4525,Ariana Afghan Airlines
+4526,
+4527,Hageland Aviation Services
+4528,Military - Russian Air Force
+4529,Sowind Air
+4530,STAP
+4531,Tajikistan Airlines
+4532,Terry Air Inc.
+4533,Aerosweet Airlines (LVOV)
+4534,SilkAir
+4535,Military - Greek Air Force
+4536,Renan Airways
+4537,United Air Lines
+4538,Parsa
+4539,Mountain Air Cargo
+4540,Ariana Afghan Airlines
+4541,Aeroservice International
+4542,Myanmar Airways
+4543,Cebu PacifiAir
+4544,Military - U.S. Marine Corps
+4545,Air Luxor
+4546,Military - Spanish Air Force
+4547,Military - Sudan Air Force
+4548,China Airlines (Taiwan)
+4549,Baron Aviation
+4550,Corporate Air
+4551,Air Memphis
+4552,Formosa Airlines
+4553,Ariana Afghan Airlines
+4554,Philippine Air Lines
+4555,Fuerza Aérea del Peru
+4556,Linea Aérea Mexicana de Carga
+4557,Air France
+4558,Fuerza Aérea del Peru
+4559,Military - Mauritanian Air Force
+4560,Military - Lao People's Liberation Army Air Force
+4561,Air Taxi - US Helicopters Inc.
+4562,MIAT - Mongolian Airlines
+4563,Propair
+4564,Air Taxi - Ohana Helicopter Tours
+4565,ATI Aircompany
+4566,Alas del Sur
+4567,Ukraine Aviation Transport Company
+4568,Military - Mexican Air Force
+4569,Plane Sailing
+4570,Swifair
+4571,Selva Taxi Aero
+4572,Alliance Airlines
+4573,Minerva Airlines
+4574,Proteus Air / Private
+4575,Harbour Air Seaplanes Ltd.
+4576,Alada
+4577,Vincent Aviation
+4578,Lumbini Airways
+4579,Air Anguilla
+4580,Speed Service Couriers
+4581,Myanmar Airways
+4582,Cubana de Aviacion
+4583,Permaviatrans
+4584,Swissair
+4585,Rusts Flying Service Inc.
+4586,Military - Pakistan Air Force
+4587,Savanair
+4588,Military - Tentara Nasional Indonesia Navy
+4589,Air taxi - Air Safaris Inc.
+4590,Paukn Air
+4591,Cabo Verde Airlines
+4592,Lionair
+4593,Servivensa
+4594,Congo Airline
+4595,Ararat Avia
+4596,Capital Taxi Aereo
+4597,TanaMana Aviation
+4598,Living Water Teaching Ministries Charter
+4599,Sakha Airlines
+4600,Paradise Air
+4601,Private
+4602,Regency Express Air
+4603,
+4604,Yates Aviation
+4605,Air Satellite
+4606,Myanmar Airways
+4607,Thai Airways
+4608,Khors Aircompany
+4609,Zanex
+4610,SELVA
+4611,Transafrik
+4612,Transafrik - United Nations Charter
+4613,Channel Express
+4614,Military - German Air National Guard
+4615,Kelowna Flightcraft Air Charter
+4616,Uzu Air
+4617,Necon Air
+4618,Fuerza Aérea Nicaragua
+4619,Savannair
+4620,Airlink
+4621,Air Karibu
+4622,Ameriflight
+4623,China Southwest Airlines
+4624,Military - Indian Air Force
+4625,ALIANSA Colombia
+4626,Provincial Airlines
+4627,Manacá Táxi Aéreo
+4628,Turkish Airlines (THY)
+4629,Aerotaca
+4630,Korean Air
+4631,Vanair
+4632,Military - Malaysian Air Force
+4633,Malindi Air Services
+4634,American Airlines
+4635,Military - Sudan Air Force
+4636,PacifiAirways
+4637,Air Taxi - Coastal Helicopters Inc.
+4638,Airlink
+4639,Blue Water Aviation Services
+4640,Nightexpress
+4641,LANC Colombia
+4642,Lufthansa Cargo Airlines
+4643,Aero Jet Express
+4644,Private
+4645,La Costena
+4646,All Nippon Airways
+4647,Military - U.S. Army
+4648,Air Fiji
+4649,Private
+4650,TACV-Cabo Verde Airlines
+4651,Regionnair
+4652,China Airlines (Taiwan)
+4653,Uni Air
+4654,Uzbekistan Airways
+4655,"LAPA, Lineas Aereas Privadas Argentinas"
+4656,Northern Air (Tanzania)
+4657,Edinburgh Air Charter
+4658,Air Taxi - New England Airlines
+4659,Necon Air
+4660,Greek Government
+4661,Norte Jet Táxi Aéreo
+4662,Military - Mexican Air Force
+4663,Big Island Airlines
+4664,Aramco Associated Company
+4665,Avioriprese Jet Executive
+4666,Military - Venezuelan Army
+4667,Private charter
+4668,EgyptAir
+4669,Air Taxi - Stanley Air Taxi
+4670,Military - People's Liberation Army
+4671,TAESA
+4672,Si Fly - U.N. charter
+4673,DHL Aviation Africa
+4674,Tashkent Aircraft Production Corporation
+4675,Charter - Flightline Charter Services
+4676,Air Taxi - Grant Aviation Inc.
+4677,Asian Spirit
+4678,College of the Ozarks
+4679,Charter - Twin Air HB
+4680,Military - U.S. Air Force
+4681,SATA
+4682,Cubana de Aviacon
+4683,Bankair
+4684,Kivu Air Services
+4685,Korean Air
+4686,Indian Airlines
+4687,Cubana de Aviacion
+4688,Skyline Airways
+4689,Ecuato Guineana de Aviacion
+4690,Skypower Express Airways
+4691,Crossair
+4692,Avisto
+4693,TACA
+4694,Top Air - Air Taxi
+4695,Kenya Airways
+4696,Military - Centrafricain Airlines
+4697,Military - Philippine Air Force
+4698,Alaska Airlines
+4699,Military - IslamiRepubliof Iran Air Force
+4700,"Air Taxi - Iliamna, Air Taxi Inc."
+4701,Emery Worldwide
+4702,Southwest Airlines
+4703,Vologodskiye Airlines
+4704,Points North Air Services
+4705,Aeroperlas
+4706,Military - Ejército del Aire
+4707,Sky Cabs
+4708,Uralex
+4709,Taxval
+4710,Universal Jet Aviation
+4711,Air Philippines
+4712,North Coast Aviation
+4713,Northern Executive Aviation
+4714,Trans Guyana Airways
+4715,Price Aircraft Company
+4716,Avirex
+4717,Executive Airlines
+4718,Philippine Air Lines
+4719,Streamline
+4720,Whyalla Airlines
+4721,Ghana Airlink
+4722,ANT Air Taxi
+4723,Air taxi - Jao Air Taxi
+4724,Wuhan Airlines
+4725,Military - Japanese Air Self-Defence Force
+4726,Aerocaribe
+4727,CORAL Colombia
+4728,Win Win Aviation
+4729,Indian Airlines/Alliance Airlines
+4730,Airwave Transport
+4731,Allied Air Freight
+4732,Blue Hawaiian Helicopters
+4733,Air France
+4734,Military - Royal Jordanian Air Force
+4735,Royal Nepal Airlines
+4736,Air taxi - Lider Air Taxi
+4737,Military - Fuerza Aérea de Chile
+4738,Patuxent Airways / Private
+4739,Staer Air
+4740,RCMP-GRC Air Services
+4741,Air Taxi
+4742,Gulf Air
+4743,Big Island Airlines
+4744,SANSA
+4745,Military - Fuerza Aérea Colombiana
+4746,Charter - Central Air
+4747,Military - Sri Lanka Air Force
+4748,Cape Smythe Air Service
+4749,Aeromexico
+4750,Servicio Aereo Manchupo
+4751,Summit Air Charters
+4752,Empire Airlines
+4753,Bombardier Aerospace
+4754,Private
+4755,Lao Aviation
+4756,Military - Russian Air Force
+4757,Singapore Airlines
+4758,Aca-Ancargo
+4759,Malu Aviation
+4760,Superior Aviation
+4761,Asa Pesada
+4762,American Airlines
+4763,Mayoral Executive Jet
+4764,Skydive Salt Lake - Charter
+4765,MajestiAir Cargo
+4766,Rutaca Airlines
+4767,North Bay Charter
+4768,Lineas Aereas Suramericanas
+4769,Northern Illinois Flight Center
+4770,E.A.S. Aeroservizi
+4771,Gum Air Charter
+4772,Loganair
+4773,Air taxi - Cuiaba Air Taxi
+4774,Thai Airways
+4775,Military - Florida Army National Guard
+4776,Vnukovo Airlines
+4777,Sociedade de Aviacao Ligeira Charter
+4778,Air Caraibes
+4779,Merpati Nusantara Airlines
+4780,Jetwingsco Inc. - Private Charter
+4781,Jet Wings
+4782,Military - Sudan Air Force
+4783,SFC Vietnam - Charter - Full Account
+4784,Private - Techint  group
+4785,Military - Turkish Air Force
+4786,Fuerza Aérea Argentina
+4787,Faraz Qeshm Airlines
+4788,Military - Russian Air Force
+4789,Manunggal Air
+4790,Vladivostokavia
+4791,Private  - Daewoo Shipbuilding
+4792,Private - OverteCompany
+4793,Russ Air Transport Company
+4794,Air Taxi
+4795,Naske Air
+4796,Papillon Grand Canyon Helicopters of Las Vegas
+4797,Victoria Airlines
+4798,Canadian Air Transat
+4799,Ameristar Jet Charter
+4800,Blackhawk Int. Airways  - Private charter
+4801,Binter Mediterráneo
+4802,United Air Lines
+4803,American Airlines
+4804,American Airlines
+4805,United Air Lines
+4806,Aero Ferinco Charter
+4807,TAM (Brazil)
+4808,AtlantiAirlines
+4809,Aeronautical Services - Air Taxi
+4810,Sibir Airlines
+4811,Scandinavian Airlines (SAS) / Private
+4812,Air Saint Maurice Inc.
+4813,PenAir
+4814,Flightline
+4815,Perimeter Airlines
+4816,Air Taxi - Continental Air Taxi
+4817,ERA Aviation - Air Taxi
+4818,American Airlines
+4819,Charter - IRS Aero
+4820,Universal Jet Aviation
+4821,ELK Aviation Co. (leased from Eminex)
+4822,Crossair
+4823,MK Airlines
+4824,SANSA
+4825,"Military - Russian, cargo"
+4826,Air Carriers
+4827,Air Cargo Express
+4828,Eagle Air
+4829,Heliandes
+4830,Eagle Air
+4831,BAL Bremerhaven Airline
+4832,Air Taxi - Air Taxi Inc.
+4833,Agco Corp
+4834,Military - U.S. Air Force
+4835,Ibertrans Aérea
+4836,Procuraduría General de la República
+4837,Garuda Indonesia Airlines
+4838,Petroproducción
+4839,Air Fiordland
+4840,Military - Angolan  Air Force
+4841,TAME
+4842,Military - U.S. Air Force
+4843,Iran Air Tours
+4844,Tiramavia
+4845,Military - Russian Navy
+4846,Military - U.S. Army
+4847,Svedijos Prekés
+4848,Charter - Aerotaxi
+4849,Priorty Air Charter
+4850,Djibouti Airlines
+4851,Air Taxi
+4852,Tadair
+4853,Air China
+4854,Air taxi
+4855,SELVA Colombia
+4856,Private
+4857,Private
+4858,EAS Airlines (Executive Airline Services)
+4859,EgyptAir
+4860,China Northern Airlines
+4861,Sky Executive Air Services
+4862,China Airlines (Taiwan)
+4863,Trigana Air Service
+4864,Airquarius Aviation - Charter
+4865,Military - Angolan Armed Forces
+4866,Marco Zero Air Taxi
+4867,Keystone Air Services Ltd. - Air Taxi
+4868,Military - U.S. Air Force
+4869,Bashkirian Airlines / DHL Worldwide Express
+4870,Private
+4871,Prestige Airlines (Cargo) Charter
+4872,"Air Taxi - Bigfoot Air of Alaska, LLC"
+4873,Sabang Merauke Raya Air Charter
+4874,Bristow Helicopters
+4875,Skyline Airways
+4876,Military - Ukraine Air Force
+4877,Pulkovo Aviation Enterprise
+4878,Military - U.S. Air Force
+4879,Military - Sri Lanka Air Force
+4880,Military - Russian Air Force
+4881,Shangri La Air
+4882,Vostok Aviakompania
+4883,Care Flight International
+4884,Rico Taxi Aéreo
+4885,CAAC Air TraffiManagement Bureau
+4886,Airco Charters - Air Taxi
+4887,Aero Pantanal - Air Taxi
+4888,Total  Air Lines
+4889,Deraps Aviation
+4890,Military - Indian Navy
+4891,American Virginia
+4892,Mid-AtlantiFreight
+4893,Aviation Charter - Air Taxi
+4894,Luxair
+4895,Dirgantara Air Services
+4896,Richmor Aviation
+4897,Laoag International Airlines
+4898,Eagle Aviation
+4899,Raytheon Aircraft
+4900,Island Airways Ltd.
+4901,Military - U.S. Army
+4902,Planemasters
+4903,Transasia Airways
+4904,Aeromist-Kharkiv
+4905,Telford Aviation
+4906,Military - Brazilian Air Force
+4907,Ocean Airlines
+4908,Turkish Airlines (THY)
+4909,US Air Express/Air Midwest
+4910,TANS Airlines
+4911,Aerocom
+4912,African Commuter Services
+4913,Euro Asia Aviation
+4914,Volare Aviation Enterprise
+4915,Enimex
+4916,Air Taxi - Great Northern Aircraft Co.
+4917,Military - IslamiRevolution's Guards Corps
+4918,Military - Pakistan Air Force
+4919,Private - Kabanov - skydiving
+4920,Air Algerie
+4921,PT Air Regional
+4922,Morris Hancock Flying Club - Charter
+4923,Ukrainian Cargo Airlines -  Congolese Army Charter
+4924,Ukranian-Mediterranean Airlines
+4925,McKinley Air Service - Air Taxi
+4926,Eurojet Italila
+4927,Air Taxi - Marco Zero Air Taxi
+4928,Charter - Air Adventures New Zealand Ltd
+4929,Astro Air Taxi
+4930,Paradise Tour Helicopters
+4931,Brit Air
+4932,Military - IslamiRepubliof Iran Air Force
+4933,Hallo Bay Air - Air Taxi
+4934,ComvaAviation
+4935,Military - Algerian Air Force
+4936,Heringer Air Taxi
+4937,BHS - Brazilian Helicopter Services
+4938,Sudan Airways
+4939,Air Sunshine
+4940,Ruiban & Duran Compania Aérea
+4941,Ryan Blake Air Charter
+4942,Jack Harter Helicopters
+4943,Jet Pro
+4944,Servicios Aeronauticos Sucre (SASCA)
+4945,Khalatyrka
+4946,Tropical Airways
+4947,US Airways Express
+4948,Wasaya Airways
+4949,Ameristar Jet Charter
+4950,Military - Mexican Air Force
+4951,Sundance Helicopters
+4952,Les Ailes de Gaspé Inc.
+4953,Air taxi - Rumo Notre Air Taxi
+4954,Air Freight New Zealand
+4955,Transmandu
+4956,CATA Linea Aerea
+4957,Aeroextra
+4958,FedEx
+4959,Military - U.S. Army
+4960,Trans Guyana Airways
+4961,Heliwork WA Pty Ltd. - Air Taxi
+4962,Ameriflight
+4963,Military - Congolese Air Force
+4964,Huron Air
+4965,Líneas Aéreas Suramericanas
+4966,Pavair
+4967,Union des Transports Aeriens de Guinee
+4968,Flash Air
+4969,Uzbekistan Airways
+4970,Georgia Express
+4971,Tassili Airlines
+4972,Military - Government of Macedonia
+4973,Kish Airlines
+4974,City-Jet
+4975,Air taxi
+4976,Azov Avia Airlines
+4977,Military - United States Marine Corps
+4978,Dodita Air Cargo
+4979,Military - United States Air Force
+4980,Air Taxi
+4981,Air Ambulance - Med-Trans Corp.
+4982,Procuradoria General de la Republica
+4983,Venezuelian Government
+4984,Aerotransportes Petroleros
+4985,Charter - Air Cush
+4986,El Magal Aviation
+4987,Rico Linhas Aereas
+4988,Aray-Avia
+4989,AZAL Cargo Company
+4990,Blue Bird Aviation
+4991,Yeti Airlines
+4992,Gabon Express
+4993,Air taxi - Aero Air Taxi
+4994,United Nations -  UTair Charter
+4995,Air Trek
+4996,Capital Airlines Inc.
+4997,BHS - Brazilian Helicopter Service  Air Taxi
+4998,Airlines of PNG
+4999,Air Taroma
+5000,Alpine Air Express
+5001,Transworld Safaris
+5002,Military - Venezuelan Air Force
+5003,Sibir Airlines
+5004,Volga-Avia Express
+5005,Mavrik Aire Transport
+5006,Jett Paqueteria SA
+5007,Military - Greek Army
+5008,Air Flamence
+5009,Sarit Airlines
+5010,Business Jet Services
+5011,Presidental Airways Inc. - Air Taxi
+5012,Pinnacle Airlines/Northwest Airlink
+5013,MK Airlines
+5014,Aerovanguardia
+5015,PacifiAir
+5016,Corporate Airlines (American Connection)
+5017,Private - Hendrick Motorsports Inc.
+5018,Med Flight Air Ambulance - Private
+5019,Venezolana
+5020,China Eastern Airlines
+5021,Glow Air/Air Castle - Charter
+5022,Lion Air
+5023,Grand Aire
+5024,Salmon Air - Air Taxi
+5025,SAVIARE S.A. - Air Taxi
+5026,Guardia Nacional de Venezuela
+5027,NHR Táxi-Aéreo
+5028,Airline Transport
+5029,Military - Colombian government
+5030,Tura Air Enterprise
+5031,AirNow
+5032,Military - U.S. Marines
+5033,Farnair Hungary
+5034,Military - Royal Air Force
+5035,Kam Air
+5036,Air West
+5037,Action Air Express Inc. - Air Taxi
+5038,Circuit City Stores - Charter
+5039,Missionary Aviation Fellowship
+5040,Indonesian National Police
+5041,Air Global
+5042,Loganair
+5043,Regional Airlines
+5044,Air Transport
+5045,West Caribbean Airways
+5046,Military - U.S. Air Force
+5047,GT Air
+5048,Saha Airline Services
+5049,Military - Fuerza Del Peru
+5050,Airwork
+5051,Kisangani Airlift
+5052,Aero-Tropics
+5053,Transportes Aereos Don Carlos - Charter
+5054,Military - Zambia Air Force
+5055,Charter - Maniema Union (owner Victoria Air)
+5056,Marsland Aviation
+5057,Ecuatair
+5058,Air France
+5059,Tuninter
+5060,Copterline
+5061,Helios Airways
+5062,West Caribbean Airways
+5063,TANS Peru
+5064,Kavatshi Airlines
+5065,Mandala Airlines
+5066,Air Kasai
+5067,Viaçao Cometa
+5068,Wayumi Air Taxi
+5069,"Heli-USA Airways, In- Air Taxi"
+5070,Wimbi Dira Airways
+5071,Morningstar Air Express
+5072,Bellview Airlines
+5073,Ivolga Avia
+5074,Military - IslamiRepubliof Iran Air Force
+5075,Southwest Airlines
+5076,Sosoliso Airlines
+5077,Chalk's Ocean Airways
+5078,Azerbaijan Airlines
+5079,Trigana Air Service
+5080,Skyward Aviation
+5081,Evolga
+5082,Service Air
+5083,Military - Iranian Revolutionary Guard Corps Air Force
+5084,Military - Slovak Air Force
+5085,SoniBlue Airways
+5086,Air Cargo Carriers
+5087,TriCoastal Air
+5088,Aerovalles
+5089,Military - Fuerza Aérea Argentina
+5090,Ameriflight
+5091,ATESA
+5092,Team Air
+5093,Military - Kenya Air Force
+5094,Military - Lybian Arab Air Force
+5095,Yug Avia
+5096,U.S. Government (leased)
+5097,King Air Charter
+5098,Armavia
+5099,Saskatchewan Government Northern Air Operations
+5100,Air São Tomé
+5101,International Jet Charter
+5102,Military - Chinese Air Force
+5103,Air Taxi - MajestiAlliance
+5104,Military - Chadian Air Force
+5105,Yeti Airlines
+5106,Naturelink
+5107,Himmelsschreiber
+5108,Mango Airlines
+5109,Sibir (S7)
+5110,Pakistan International Airlines
+5111,Tracep
+5112,Aerosucre Colombia
+5113,AirNow
+5114,Air Algerie
+5115,Pulkovo Airlines
+5116,Comair
+5117,Iran Air Tours
+5118,Military - Royal Air Force
+5119,Military - Russian Army
+5120,Military - Nigerian Air Force
+5121,Gol Airlines / Private
+5122,AtlantiAirways
+5123,Military - Russian Air Force/Uzbekistan Airways
+5124,ADC Airlines
+5125,Military - Iranian Revolutionary Guard Corps Air Force
+5126,Air ambulance - Mercy Air Services
+5127,PenAir
+5128,Air Charter - Tanzanian Air Services
+5129,Adam Air
+5130,DJB Air Charter
+5131,Moldovan Aeriantur-M Air Cargo
+5132,Ameristar Jet Charter
+5133,SunQuest Executive Air Charter
+5134,Military - US Army
+5135,Regional Compagnie Aerienne Europeenne
+5136,Air Turks & Caicos
+5137,Metro Aviation
+5138,Garuda Indonesia Airlines
+5139,Heli-USA Airways
+5140,Inter-Island
+5141,
+5142,UTAir Airlines
+5143,Transaviaexport Airlines
+5144,Air Services
+5145,Military - Russian
+5146,Kenya Airways
+5147,Military - French Air Force
+5148,Safe Air Complany
+5149,Military - Peruvian Air Force
+5150,Paramount Airlilnes
+5151,University of Michigan Health System
+5152,Mongolian Defense Ministry
+5153,Nyika Safaris
+5154,Karibu Airways
+5155,PMT Air
+5156,TAAG Angola Airlines
+5157,Jett Paqueteria SA
+5158,Charter - Private
+5159,Liard Air
+5160,TAM (Brazil)
+5161,Djibouti Airlines
+5162,Taquan Air Service
+5163,Atran
+5164,Southwest Medivac
+5165,Air Moorea
+5166,SeaWind Aviation
+5167,Military - U.S. Army
+5168,Two Taxi Aero
+5169,Great Lakes Business Complany
+5170,Galaxy Kavatsi Airlines
+5171,Military - Macedonian Air Force
+5172,One-Two-Go Airlines
+5173,Karibu Airways
+5174,Africa One Congo
+5175,SceniAir Tours
+5176,Kapowsin Air Sports
+5177,Nacional de Aviacion
+5178,Reali Taxi Aereo
+5179,Juba Air Cargo
+5180,Atlasjet Airlines
+5181,"Evergreen Alaska Helicopters, Inc."
+5182,Castle Aviation
+5183,Fun Air
+5184,Transaven
+5185,Servant Air
+5186,Apline Aviation
+5187,British Airways
+5188,Gira Globo Charter
+5189,Military - Polish Air Force
+5190,Dirgantara Air Service
+5191,Santa Barbara Airlines
+5192,BHS - Brazilian Helicopter Service Air Taxi
+5193,United Nations Mission
+5194,Trade Wings Aviation Ltd.
+5195,Blue Wing Airlines
+5196,Avtex Air Services
+5197,Kata Transportation
+5198,Hewa Bora Airways
+5199,Military - Government of Equatorial Guinea
+5200,Naftogaz
+5201,Southern Sudan Air Connection
+5202,Chelan Air Service
+5203,Alpine Aviation 
+5204,Island Express Helicopter Service
+5205,Moskovia Airlines
+5206,Military - Servicio Aereo Nacional
+5207,TACA International Airlines
+5208,Patagonia Airlines
+5209,PHI Air Medical
+5210,Sudan Airways
+5211,Wiggins Airways
+5212,Military - Thai Army
+5213,Military - Indonesian Air Force
+5214,Juba Air Cargo
+5215,Air Methods / ClassiHelicopters
+5216,Ababeel Aviaition
+5217,USA Jet Airlines
+5218,Centurian Air Cargo
+5219,Aerocord
+5220,East Coast Jets
+5221,PacifiCoast Airlines
+5222,Junction City Fire Department
+5223,Military - Royal Thai Air Force
+5224,Fly 540
+5225,Spanair
+5226,Aéreo Ruta Maya
+5227,Itek Air
+5228,Conviasa
+5229,Air Serv Internatiional/CemAir
+5230,Air Tahoma
+5231,Aerogulf
+5232,Aeroflot
+5233,Global Executive Aviation
+5234,Maryland State Police
+5235,Yeti Airlines
+5236,Air Angles Inc.
+5237,Mexican Government
+5238,East African Air Charters
+5239,Falcon Aviation Group
+5240,PacifiCoastal Airlines
+5241,XL Airways leased from Air New Zealand
+5242,Webstas Aviation Services Inc.
+5243,Rotorcraft Leasing Co
+5244,Alantis Aviation
+5245,Petroleum Helicopters Inc
+5246,US Airways
+5247,Aerotaxi Manaus
+5248,Air One Executive
+5249,Continental Connection/Colgan Air
+5250,Flight Service
+5251,Aerolift
+5252,Turkish Airlines
+5253,Aerolift
+5254,Cougar Helicopters
+5255,Eagle Cap Leasing
+5256,FedEx
+5257,Bond Offshore Helicopters
+5258,Military - Indonesian Air Force
+5259,Aviastar Mandiri
+5260,Mimika Air
+5261,Aerotuy airline
+5262,Bako Air
+5263,Military - Venezuelan Army
+5264,Military - Indonesian Air Force
+5265,Service Air
+5266,Air France
+5267,Strait Air
+5268,Military - Indian Air Force
