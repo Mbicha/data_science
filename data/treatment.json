@@ -1,0 +1,5038 @@
+[
+    {
+        "Timestamp": "2014-08-27 11:29:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:29:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:29:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:29:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:30:22",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:31:22",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:31:50",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:32:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:32:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:32:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:32:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:32:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:33:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:33:26",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:33:57",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:34:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:34:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:34:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:34:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:35:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:35:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:35:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:35:48",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:36:24",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:36:48",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:37:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:37:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:37:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:38:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:38:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:39:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:38:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:39:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:39:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:40:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:41:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:41:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:41:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:42:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:42:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:42:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:42:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:43:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:43:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:43:22",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:43:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:43:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:43:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:43:56",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:44:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:44:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:45:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:45:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:45:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:46:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:46:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:46:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:47:10",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:47:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:47:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:48:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:49:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:50:27",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:50:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:50:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:51:07",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:51:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 11:52:07",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:52:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:52:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:53:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:53:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:54:27",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:56:17",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:56:29",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:57:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:57:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:57:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 11:59:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:00:02",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:01:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:02:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:02:52",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:03:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:05:13",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:05:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:07:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:10:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:11:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:11:07",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:12:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:13:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:14:13",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:15:11",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:15:19",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:15:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:16:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:17:01",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:18:02",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:18:04",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:18:14",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:18:38",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:19:52",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:20:10",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:22:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:23:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:23:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:25:09",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:28:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:28:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:29:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:31:02",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:31:03",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:31:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:31:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:31:34",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:31:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:31:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:31:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:32:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:32:59",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:33:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:33:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:33:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:33:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:34:11",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:34:13",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:34:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:34:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:34:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:34:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:35:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:36:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:36:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:36:53",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:37:09",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:37:26",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:37:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:37:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:37:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:38:11",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:38:18",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:38:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:39:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:39:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:39:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:39:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:39:57",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:40:03",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:40:06",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:40:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:40:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:41:04",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:41:20",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:41:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:42:24",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:42:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:43:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:43:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:43:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:43:53",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:44:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:44:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:45:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:46:03",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:47:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:48:06",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:48:29",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:48:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:48:39",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:48:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:48:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:49:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:49:27",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:49:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:49:39",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:50:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:50:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:51:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:51:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:51:42",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:51:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:51:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:51:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:52:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:52:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:52:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:53:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:53:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:53:13",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:53:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:53:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:54:11",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:54:11",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:54:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:54:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:55:01",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:55:38",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:56:13",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 12:56:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:57:38",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:57:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:58:10",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 12:58:42",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:00:38",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:02:14",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:03:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:04:18",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:04:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:05:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:06:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:06:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:07:24",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:07:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:07:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:07:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:08:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:09:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:09:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:09:39",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:12:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:12:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:14:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:15:19",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:15:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:18:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:18:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:19:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:21:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:22:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:22:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:23:38",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:24:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:24:57",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:26:35",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:26:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:27:18",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:29:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:29:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:31:03",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:31:35",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:32:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:32:48",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:33:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:34:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:35:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:35:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:37:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:37:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:38:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:39:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:40:58",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:42:38",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:44:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:44:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:46:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:47:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:47:27",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:48:01",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:49:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:49:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:52:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:52:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:53:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:53:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:53:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:54:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:54:24",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:55:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:55:22",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:55:38",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:56:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 13:56:35",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:59:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 13:59:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:01:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:01:35",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:01:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:03:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:03:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:03:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:06:26",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:10:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:10:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:10:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:11:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:11:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:11:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:13:02",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:13:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:13:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:14:52",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:15:13",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:15:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:15:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:16:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:18:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:18:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:18:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:19:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:19:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:20:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:20:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:21:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:21:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:22:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:22:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:22:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:22:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:23:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:23:53",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:24:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:25:41",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:25:54",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:26:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:27:20",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:27:27",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:27:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:27:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:28:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:28:41",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:28:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:28:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:28:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:29:19",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:30:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:31:06",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:31:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:31:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:32:22",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:32:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:33:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:34:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:37:33",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:37:35",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:37:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:38:06",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:38:13",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:38:26",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:38:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:38:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:39:07",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:39:20",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:41:09",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:41:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:44:29",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:45:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:45:45",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:47:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:47:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:49:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:49:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:51:29",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:52:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:52:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:53:11",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:54:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:54:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:57:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 14:58:01",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 14:59:59",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:03:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:04:41",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:05:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:05:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:09:58",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:11:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:13:33",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:14:50",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:15:29",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:15:42",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:20:53",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:21:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:22:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:22:26",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:22:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:22:45",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:22:50",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:22:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:23:06",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:23:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:23:19",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:23:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:23:33",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:23:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:23:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:23:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:24:22",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:24:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:24:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:24:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:24:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:24:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:24:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:24:56",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:25:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:25:09",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:25:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:25:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:25:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:26:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:26:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:26:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:26:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:27:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:27:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:27:38",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:27:39",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:28:34",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:28:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:29:03",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:29:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:29:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:30:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:31:10",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:31:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:31:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:31:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:31:38",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:31:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:32:09",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:32:19",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:32:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:34:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:34:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:34:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:35:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:35:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:35:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:36:13",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:36:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:38:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:38:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:38:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:38:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:38:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:39:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:40:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:43:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:43:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:43:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:43:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:44:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:44:20",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:46:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:46:39",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:47:26",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:47:33",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:50:26",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:51:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:53:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:53:59",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:54:45",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:55:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:55:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 15:55:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:56:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:58:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:59:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 15:59:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:00:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:01:39",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:01:52",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:02:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:03:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:04:01",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:06:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:07:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:10:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:11:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:13:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:13:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:13:42",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:14:04",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:14:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:15:26",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:15:33",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:16:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:16:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:17:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:17:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:18:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:19:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:19:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:20:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:20:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:21:11",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:21:24",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:21:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:21:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:22:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:22:17",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:23:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:25:26",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:26:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:27:04",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:27:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:28:10",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:28:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:29:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:29:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:31:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:32:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:34:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:35:02",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:36:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:39:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:39:01",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:40:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:42:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:42:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 16:47:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:53:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 16:55:04",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:00:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:03:02",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:04:29",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:08:18",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:09:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:10:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:12:01",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:14:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:15:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:19:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:22:29",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:32:04",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:33:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:33:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:33:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:37:41",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:39:58",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:41:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:42:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:46:17",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:47:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:48:54",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:49:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:49:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 17:52:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 17:56:50",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 18:00:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 18:02:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 18:02:42",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 18:12:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 18:13:38",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 18:14:59",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 18:16:52",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 18:18:18",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 18:22:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 18:29:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 18:39:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 18:41:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 18:43:06",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 18:56:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 18:59:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 19:05:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 19:08:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 19:13:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 19:13:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 19:16:15",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 19:17:07",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 19:25:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 19:27:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 19:28:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 19:34:26",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 19:34:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 19:38:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 19:41:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 19:45:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 19:59:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 20:13:06",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 20:17:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 20:33:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 20:48:54",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 20:52:20",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 20:52:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 20:53:22",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 20:55:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 21:05:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 21:15:09",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 21:17:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 21:21:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 21:35:24",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 21:39:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 21:45:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 21:54:29",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 21:54:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 21:55:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 22:00:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:04:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:04:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:06:14",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:07:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:11:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:12:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 22:13:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 22:14:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:14:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 22:21:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 22:26:03",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:32:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 22:35:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 22:36:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:55:13",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 22:59:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 23:09:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 23:10:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 23:10:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 23:14:58",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 23:30:52",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 23:54:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-27 23:56:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 23:57:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-27 23:59:59",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 00:02:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 00:05:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 00:17:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 00:43:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 00:47:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 01:04:45",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 01:14:11",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 01:19:34",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 01:30:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 01:38:53",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 01:41:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 01:56:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 02:15:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 02:17:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 02:19:29",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 02:30:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 02:32:11",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 02:41:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 02:46:56",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 02:49:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 02:52:45",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 02:54:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 03:05:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 03:06:14",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 03:13:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 03:13:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 03:15:01",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 03:16:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 03:29:19",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 03:36:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 03:42:58",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 03:47:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 03:49:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 03:52:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 04:00:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 04:02:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 04:07:34",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 04:09:14",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 04:11:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 04:16:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 04:23:01",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 04:24:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 04:30:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 04:34:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 04:37:54",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 04:53:52",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 05:05:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 05:12:15",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 05:14:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 06:02:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 06:05:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 06:10:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 06:11:06",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 06:27:59",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 06:30:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 07:01:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 07:03:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 07:03:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 07:12:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 08:00:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 08:06:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 08:18:06",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 08:23:11",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 08:39:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 08:40:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 08:43:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 08:43:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 08:43:58",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:02:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:09:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:16:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:18:13",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:40:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:53:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:53:57",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:54:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:54:38",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:54:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:54:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:55:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:56:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:56:04",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:56:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:56:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:56:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:57:02",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:57:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 09:57:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:58:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:59:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 09:59:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:00:48",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:01:15",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:01:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:02:09",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:02:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:02:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:04:34",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:04:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:05:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:07:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:07:53",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:08:19",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:08:34",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:10:29",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:11:52",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:13:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:15:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:16:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:17:19",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:18:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:18:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:20:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:22:06",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:24:19",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:25:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:29:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:30:04",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:30:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:34:01",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:35:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:42:09",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:45:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:47:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:51:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 10:52:33",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:54:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 10:57:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:02:41",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:04:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:04:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:07:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:09:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:10:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:14:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:15:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:19:35",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:20:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:21:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:21:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:22:04",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:26:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:27:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:29:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:32:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:34:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:36:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:38:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:40:11",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:44:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:47:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:48:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:50:06",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:50:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:54:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 11:58:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 11:59:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:02:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:05:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 12:06:55",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 12:07:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:08:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:09:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 12:10:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:10:42",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 12:12:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 12:15:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:19:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:19:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:22:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 12:23:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 12:30:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:40:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 12:42:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:42:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 12:44:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 12:53:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 13:01:26",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 13:04:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 13:08:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 13:11:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 13:17:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 13:26:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 13:32:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 13:34:57",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 13:35:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 13:39:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 13:39:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 13:40:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 13:41:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 13:47:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 13:47:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 13:48:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 13:54:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 13:57:01",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 14:00:02",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 14:01:56",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 14:02:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 14:04:54",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 14:12:58",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 14:15:02",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 14:31:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 14:38:50",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 14:41:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 14:46:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 14:51:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 14:52:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 14:53:02",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 14:53:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 14:57:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 15:01:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 15:25:39",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 15:32:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 15:37:04",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 15:40:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 15:43:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 15:48:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 15:50:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 15:50:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 15:54:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 15:56:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 16:09:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 16:17:09",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 16:31:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:42:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:52:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:52:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 16:52:34",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:54:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 16:55:07",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:55:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:56:26",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:56:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 16:56:58",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 16:57:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 16:57:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:57:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 16:58:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:58:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 16:58:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:01:06",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:01:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:01:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:02:27",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:02:29",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:02:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:02:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:03:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:07:11",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:07:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:07:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:08:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:09:03",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:10:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:10:04",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:10:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:11:48",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:12:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:14:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:16:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:19:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:19:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:19:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:20:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:20:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:21:01",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:21:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:22:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:22:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:23:19",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:27:03",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:27:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:28:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:28:58",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:31:06",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:33:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:33:20",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:34:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:35:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:36:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:39:06",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:45:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:46:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:47:45",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:47:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:50:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:56:02",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:57:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:57:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 17:59:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:59:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 17:59:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 18:01:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 18:02:09",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 18:07:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 18:17:41",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 18:18:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 18:21:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 18:21:58",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 18:26:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 18:50:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 19:03:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 19:04:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 19:15:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 19:26:03",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 19:28:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 19:35:39",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 20:12:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 20:31:02",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 20:49:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 21:22:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 21:24:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 21:27:19",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 21:30:35",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 21:33:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 21:38:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 21:41:53",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 21:47:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 22:16:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 22:17:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 22:18:41",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 22:20:33",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 22:22:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 22:23:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 22:35:10",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 22:39:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 22:46:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 23:03:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 23:13:18",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-28 23:16:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-28 23:57:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 00:05:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 00:06:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 00:11:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 00:41:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 00:43:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 00:47:09",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 01:14:09",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 01:20:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 01:40:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 02:10:57",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 02:24:13",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 03:02:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 03:02:45",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 03:08:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 04:39:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 04:53:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 05:15:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 05:24:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 05:39:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 05:47:19",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 05:54:26",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 05:57:48",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 06:06:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 06:37:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 06:42:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 07:12:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 07:21:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 07:28:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 07:51:42",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 08:26:36",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 08:36:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 08:46:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 08:53:19",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 08:54:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 08:57:14",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 08:57:42",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 08:59:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 08:59:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:01:01",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:01:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:02:04",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:02:56",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:03:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:10:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:10:58",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:12:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:13:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:14:45",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:15:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:15:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:19:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:24:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:23:22",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:23:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:27:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:29:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:31:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:31:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:33:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:35:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:36:04",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:36:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:40:13",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:42:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:46:56",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:47:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:47:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:51:35",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:53:38",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:53:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:54:01",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:54:11",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 09:58:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 09:59:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 10:03:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:05:57",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:06:29",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 10:12:10",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:13:39",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:13:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:16:45",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 10:27:15",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:30:09",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:32:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:33:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:38:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:38:29",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 10:55:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 10:59:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:01:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:02:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:04:19",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:05:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:11:00",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:12:22",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:19:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:20:13",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:20:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:20:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:22:46",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:23:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:24:48",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:25:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:27:47",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:32:22",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:32:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:33:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:34:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:36:38",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:39:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:40:29",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:43:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:44:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 11:46:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:53:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:54:38",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 11:56:18",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 12:00:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 12:08:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 12:15:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 12:20:01",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 12:26:21",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 12:27:54",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 12:45:11",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 12:48:20",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 12:54:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 13:17:33",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 13:23:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 13:58:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 14:04:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 14:09:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 14:31:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 14:51:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 14:59:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 15:10:39",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 15:59:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 16:07:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 16:17:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 16:21:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 16:30:50",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 16:50:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 16:51:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 16:56:06",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 17:04:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 17:04:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 17:26:15",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 17:32:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 17:35:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 17:54:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 18:33:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 18:39:07",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 19:32:13",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 19:34:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 20:53:09",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 20:53:58",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 21:26:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 21:28:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 21:40:26",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-29 22:08:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-29 23:51:01",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-30 00:09:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 03:55:19",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 05:05:44",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 05:47:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 06:48:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-30 07:31:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 11:48:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 12:35:06",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-30 13:23:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 13:48:34",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-30 13:55:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-30 14:00:22",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 15:57:04",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 16:13:40",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 16:38:02",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-30 18:29:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 19:35:58",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 19:56:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 20:12:33",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 20:19:37",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-30 20:43:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 20:46:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-30 20:55:11",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-31 04:31:11",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-31 09:19:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-31 15:03:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-31 15:23:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-31 16:48:13",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-08-31 22:11:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-08-31 22:16:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-01 04:28:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-01 06:52:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-01 06:53:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-01 08:19:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-01 08:23:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-01 09:12:15",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-01 09:15:34",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-01 10:06:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-01 10:40:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-01 12:00:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-01 12:45:24",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-01 17:59:14",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-01 21:03:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-01 21:34:12",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-01 22:58:47",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-02 03:13:53",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-02 04:00:58",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-02 08:00:33",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-02 08:24:43",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-02 09:57:22",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-02 13:18:35",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-02 17:04:56",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-02 20:23:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-02 20:57:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-03 01:32:51",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-03 13:09:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-04 06:23:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-04 08:35:49",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-04 17:38:22",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-04 23:42:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-05 14:15:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-05 14:19:00",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-08 00:52:31",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-08 16:46:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-08 21:30:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-09 13:49:50",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-11 17:00:30",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-12 19:18:18",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-13 07:52:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-14 09:04:08",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-14 20:50:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-20 13:51:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-23 20:05:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-26 08:45:56",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-09-26 10:05:55",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-26 21:25:14",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-09-30 09:19:01",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-10-02 21:25:16",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-10-05 21:16:10",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-10-09 11:14:59",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-11-05 10:08:44",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-11-06 11:24:38",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-11-16 08:42:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2014-12-01 09:58:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2014-12-15 00:43:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-01-03 03:38:30",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 04:16:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 04:16:23",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 04:18:48",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 04:19:28",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 04:23:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 04:32:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 04:34:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 04:41:28",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 04:51:53",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 04:55:11",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 05:11:37",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 05:34:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 05:55:13",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 05:55:17",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 06:06:09",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 06:19:41",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 08:21:36",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 08:54:40",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 08:56:27",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 09:10:26",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 09:16:45",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 09:18:20",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 09:19:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 09:22:23",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 09:29:20",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 09:30:14",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 09:30:29",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 09:33:29",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 09:48:13",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 10:00:50",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 10:45:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 11:48:52",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 11:55:46",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 13:19:11",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 15:28:57",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-21 17:19:18",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 18:54:12",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-21 18:59:05",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-22 02:40:32",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-02-24 08:54:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-24 08:58:08",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-24 09:00:56",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-24 09:13:49",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-24 09:15:13",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-24 09:18:25",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-24 10:32:32",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-02-26 05:44:16",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-04-02 15:47:43",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-04-04 11:22:05",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-04-06 14:58:29",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-04-11 14:35:22",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-04-23 14:03:51",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-05-05 14:22:18",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-05-05 15:16:25",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-05-06 10:14:50",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-05-06 16:55:58",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-05-07 10:08:50",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-06-25 12:24:31",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-07-22 18:57:54",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-07-27 23:25:34",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-08-17 09:38:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-08-20 16:52:09",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-08-25 19:59:38",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2015-09-12 11:17:21",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-09-26 01:07:35",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-11-07 12:36:58",
+        "treatment": "Yes"
+    },
+    {
+        "Timestamp": "2015-11-30 21:25:06",
+        "treatment": "No"
+    },
+    {
+        "Timestamp": "2016-02-01 23:04:31",
+        "treatment": "Yes"
+    }
+]
